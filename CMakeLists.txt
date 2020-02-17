@@ -1,0 +1,21 @@
+cmake_minimum_required (VERSION 3.4)
+project (seqan3_tutorial CXX)
+set(SeqAn3_DIR "${CMAKE_SOURCE_DIR}/../seqan3/build_system")
+find_package (SeqAn3 REQUIRED)
+
+
+add_executable (sequence_file_conversion sequence_file_conversion.cpp)
+add_executable (sequence_file_conversion_short sequence_file_conversion_short.cpp)
+add_executable (alignment_file_conversion alignment_file_conversion.cpp)
+add_executable (alignment_file_conversion_short alignment_file_conversion_short.cpp)
+add_executable (count_unknowns count_unknowns.cpp)
+add_executable (concat_identical_sequence_ids concat_identical_sequence_ids.cpp)
+add_executable (translate_nucleotides_to_protein translate_nucleotides_to_protein.cpp)
+
+target_link_libraries (sequence_file_conversion seqan3::seqan3)
+target_link_libraries (sequence_file_conversion_short seqan3::seqan3)
+target_link_libraries (alignment_file_conversion seqan3::seqan3)
+target_link_libraries (alignment_file_conversion_short seqan3::seqan3)
+target_link_libraries (count_unknowns seqan3::seqan3)
+target_link_libraries (concat_identical_sequence_ids seqan3::seqan3)
+target_link_libraries (translate_nucleotides_to_protein seqan3::seqan3)
