@@ -31,7 +31,7 @@ int main(int argc, char const *argv[])
 
 	for(auto [seq, id, qual] : input_file)
 	{
-		int v = seq | seqan3::views::translate_single(seqan3::translation_frames::FWD_FRAME_0);
+		auto v = seq | seqan3::views::translate_single(seqan3::translation_frames::FWD_FRAME_0);
 		output_file.emplace_back(v, id);
 	}
 	return 0;

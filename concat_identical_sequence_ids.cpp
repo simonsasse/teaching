@@ -25,18 +25,16 @@ int main(int argc, char const *argv[])
 
 	//Read File
 	  seqan3::sequence_file_input input_file{input_file_path};
-	  std::unordered_map<seqan3::dna5_vector, std::string> seq_map{};
+	  std::map<seqan3::dna5_vector, std::string> seq_map{};
 
 	  //Iterate over all sequences in the input file and use sequences as keys.
 	  //concatenate ID's if there is already an entry for that ID in the map.
 	  //should we use multimap instead and do the joining of ids later?
 	  for(auto [seq, id, qual] : input_file)
 	  {
-		auto it = map.find(seq);
-
-		if (it != map.end())
+		if (seq_map.count(seq))
 		{
-			it->second += "|" + id;
+			seq_map[seq]+= "|" + id;
 		}
 		else
 		{
