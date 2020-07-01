@@ -1,0 +1,3046 @@
+    1  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+    2  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+    3  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+    4  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+    5  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+    6  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+    7  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+    8  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+    9  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   10  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   11  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   12  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   13  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   14  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   15  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   16  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   17  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   18  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   19  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   20  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   21  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   22  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   23  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   24  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   25  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   26  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   27  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/test ; exit;
+   28  cd /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/main.cpp
+   29  ls
+   30  cd /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/
+   31  g++ -std=c++11 main.cpp -o test
+   32  open test
+   33  g++ -std=c++11 main.cpp -o test
+   34  open test
+   35  g++ -std=c++11 main.cpp -o test
+   36  open test
+   37  g++ -std=c++11 main.cpp -o test
+   38  g++ -std=c++11 main.cpp -o test
+   39  open test
+   40  g++ -std=c++11 main.cpp -o test
+   41  open test
+   42  g++ -std=c++11 main.cpp -o test
+   43  open test
+   44  g++ -std=c++11 main.cpp -o test
+   45  g++ -std=c++11 main.cpp -o test
+   46  g++ -std=c++11 main.cpp -o test
+   47  g++ -std=c++11 main.cpp -o test
+   48  open test
+   49  open test
+   50  g++ -std=c++11 main.cpp -o test
+   51  open test
+   52  g++ -std=c++11 main.cpp -o test
+   53  g++ -std=c++11 main.cpp -o test
+   54  open test
+   55  g++ -std=c++11 main.cpp -o test
+   56  open test
+   57  g++ -std=c++11 main.cpp -o test
+   58  open test
+   59  g++ -std=c++11 main.cpp -o test
+   60  open test
+   61  g++ -std=c++11 main.cpp -o test
+   62  open test
+   63  g++ -std=c++11 main.cpp -o test
+   64  open test
+   65  g++ -std=c++11 main.cpp -o test
+   66  open test
+   67  g++ -std=c++11 main.cpp -o test
+   68  open test
+   69  g++ -std=c++11 main.cpp -o test
+   70  open test
+   71  g++ -std=c++11 main.cpp -o test
+   72  open test
+   73  g++ -std=c++11 main.cpp -o test
+   74  open test
+   75  g++ -std=c++11 main.cpp -o test
+   76  open test
+   77  g++ -std=c++11 main.cpp -o test
+   78  open test
+   79  g++ -std=c++11 main.cpp -o test
+   80  open test
+   81  g++ -std=c++11 main.cpp -o test
+   82  open test
+   83  g++ -std=c++11 main.cpp -o test
+   84  open test
+   85  g++ -std=c++11 main.cpp -o test
+   86  g++ -std=c++11 main.cpp -o test
+   87  open test
+   88  g++ -std=c++11 main.cpp -o test
+   89  open test
+   90  g++ -std=c++11 main.cpp -o test
+   91  g++ -std=c++11 main.cpp -o test
+   92  open test
+   93  g++ -std=c++11 main.cpp -o test
+   94  open test
+   95  g++ -std=c++11 main.cpp -o test
+   96  open test
+   97  g++ -std=c++11 main.cpp -o test
+   98  open test
+   99  g++ -std=c++11 main.cpp -o test
+  100  open test
+  101  g++ -std=c++11 main.cpp -o test
+  102  open test
+  103  g++ -std=c++11 main.cpp -o test
+  104  open test
+  105  g++ -std=c++11 main.cpp -o test
+  106  open test
+  107  g++ -std=c++11 main.cpp -o test
+  108  open test
+  109  g++ -std=c++11 main.cpp -o test
+  110  open test
+  111  g++ -std=c++11 main.cpp -o test
+  112  open test
+  113  g++ -std=c++11 main.cpp -o test
+  114  open test
+  115  g++ -std=c++11 main.cpp -o test
+  116  open test
+  117  g++ -std=c++11 main.cpp -o test
+  118  open test
+  119  g++ -std=c++11 main.cpp -o test
+  120  open test
+  121  g++ -std=c++11 main.cpp -o test
+  122  open test
+  123  g++ -std=c++11 main.cpp -o test
+  124  open test
+  125  g++ -std=c++11 main.cpp -o test
+  126  open test
+  127  g++ -std=c++11 main.cpp -o test
+  128  open test
+  129  g++ -std=c++11 main.cpp -o test
+  130  open test
+  131  g++ -std=c++11 main.cpp -o test
+  132  open test
+  133  g++ -std=c++11 main.cpp -o test
+  134  open test
+  135  g++ -std=c++11 main.cpp -o test
+  136  open test
+  137  g++ -std=c++11 main.cpp -o test
+  138  open test
+  139  g++ -std=c++11 main.cpp -o test
+  140  open test
+  141  g++ -std=c++11 main.cpp -o test
+  142  open test
+  143  g++ -std=c++11 main.cpp -o test
+  144  open test
+  145  g++ -std=c++11 main.cpp -o test
+  146  open test
+  147  g++ -std=c++11 main.cpp -o test
+  148  open test
+  149  g++ -std=c++11 main.cpp -o test
+  150  open test
+  151  g++ -std=c++11 main.cpp -o test
+  152  open test
+  153  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9/mutInfo ; exit;
+  154  cd /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung9
+  155  g++ -std=c++11 mutualInformation -o mutInfo
+  156  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  157  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  158  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  159  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  160  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  161  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  162  open mutInfo CAG UCU
+  163  mutInfo CAG UCU
+  164  mutInfo
+  165  open mutInfo
+  166  open mutInfo CAG UCU
+  167  open mutInfo "CAG" "UCU"
+  168  mutInfo ACG UCU
+  169  g++ mutInfo ACG UCU
+  170  ./mutInfo ACG UCU
+  171  ./mutInfo ACG UCU ucu
+  172  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  173  ./mutInfo ACG UCU 
+  174  ./mutInfo "ACG" "UCU" 
+  175  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  176  ./mutInfo "ACG" "UCU" 
+  177  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  178  ./mutInfo "ACG" "UCU" 
+  179  ./mutInfo ACG UCU 
+  180  ./mutInfo ACG UCU 
+  181  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  182  ./mutInfo ACG UCU 
+  183  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  184  ./mutInfo ACG UCU 
+  185  ./mutInfo ACG UCU 
+  186  ./mutInfo ACG UCC 
+  187  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  188  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  189  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  190  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  191  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  192  ./mutInfo ACG UCC 
+  193  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  194  ./mutInfo ACG UCC 
+  195  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  196  ./mutInfo ACG UCC 
+  197  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  198  ./mutInfo ACG UCC 
+  199  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  200  ./mutInfo ACG UCC 
+  201  ./mutInfo ACG UCC 
+  202  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  203  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  204  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  205  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  206  ./mutInfo ACG UCC 
+  207  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  208  ./mutInfo ACG UCC 
+  209  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  210  ./mutInfo acg ucu 
+  211  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  212  ./mutInfo acg ucu 
+  213  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  214  ./mutInfo acg ucu 
+  215  ./mutInfo acg guc 
+  216  ./mutInfo acg acg
+  217  ./mutInfo acg aca
+  218  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  219  ./mutInfo acg guc 
+  220  ./mutInfo acg ucu
+  221  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  222  ./mutInfo acg ucu
+  223  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  224  ./mutInfo acg ucu
+  225  ./mutInfo acg uca
+  226  ./mutInfo acg ucu
+  227  ./mutInfo acg ucc
+  228  ./mutInfo acg ucg
+  229  ./mutInfo acg ggg
+  230  ./mutInfo acg ccc
+  231  ./mutInfo acg aaa
+  232  cd ..
+  233  cd uebung10
+  234  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  235  ./mutInfo acg ggg
+  236  ./mutInfo acg gga
+  237  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  238  ./mutInfo acg ucu
+  239  killall ControlStrip
+  240  cd Google\ Drive/UNIKRAM/5Semester/alBiÜbung
+  241  killall ControlStrip
+  242  cd Google\ Drive/UNIKRAM/5Semester/alBiÜbung
+  243  cd uebung10
+  244  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  245  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  246  mutInfo
+  247  ./mutInfo
+  248  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  249  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  250  ./mutInfo
+  251  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  252  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  253  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  254  ./mutInfo
+  255  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  256  ./mutInfo
+  257  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  258  ./mutInfo
+  259  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  260  ./mutInfo
+  261  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  262  g++ -std=c++11 mutualInformation.cpp -o mutInfo
+  263  ./mutInfo
+  264  /Library/Frameworks/Python.framework/Versions/3.7/bin/pip3 ; exit;
+  265  /Library/Frameworks/Python.framework/Versions/3.7/bin/pip3 ; exit;
+  266  pip install
+  267  python3 setup.py build
+  268  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  269  python get-pip.py
+  270  python3 get-pip.py
+  271  pip install biopython
+  272  python3 pip install biopython
+  273  python3.7
+  274  python3 setup.py install
+  275  cd Downloads/biopython-1.76
+  276  python3 setup.py install
+  277  cd
+  278  cd /Users/simsalabim/Google Drive/UNIKRAM/5Semester/alBiÜbung/uebung11/u11_3.py
+  279  /Users/simsalabim/Google Drive/UNIKRAM/5Semester/alBiÜbung/uebung11/
+  280  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung11/
+  281  ls
+  282  cd /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung11/
+  283  python3 u11_3.py
+  284  python3 u11_3.py
+  285  python3 u11_3.py
+  286  python3 u11_3.py
+  287  python3 u11_3.py
+  288  python3 u11_3.py
+  289  python3 u11_3.py
+  290  python3 u11_3.py
+  291  python3 u11_3.py
+  292  g++ --version
+  293  cd /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung11/
+  294  python3 u11_3.py
+  295  python3 u11_3.py
+  296  python3 u11_3.py
+  297  python3 u11_3.py
+  298  python3 u11_3.py
+  299  python3 u11_3.py
+  300  python3 u11_3.py
+  301  python3 u11_3.py
+  302  python3 u11_3.py
+  303  python3 u11_3.py
+  304  python3 u11_3.py
+  305  python3 u11_3.py
+  306  python3 u11_3.py
+  307  python3 u11_3.py
+  308  python3 u11_3.py
+  309  python3 u11_3.py
+  310  python3 u11_3.py
+  311  python3 u11_3.py
+  312  python3 u11_3.py
+  313  python3 u11_3.py
+  314  python3 u11_3.py
+  315  python3 u11_3.py
+  316  python3 u11_3.py
+  317  python3 u11_3.py
+  318  python3 u11_3.py
+  319  python3 u11_3.py
+  320  python3 u11_3.py
+  321  python3 u11_3.py
+  322  python3 u11_3.py
+  323  python3 u11_3.py
+  324  python3 u11_3.py
+  325  python3 u11_3.py
+  326  python3 u11_3.py
+  327  python3 u11_3.py
+  328  python3 u11_3.py
+  329  python3 u11_3.py
+  330  python3 u11_3.py
+  331  python3 u11_3.py
+  332  python3 u11_3.py
+  333  python3 u11_3.py
+  334  python3 u11_3.py
+  335  python3 u11_3.py
+  336  python3 u11_3.py
+  337  python3 u11_3.py
+  338  python3 u11_3.py
+  339  python3 u11_3.py
+  340  python3 u11_3.py
+  341  python3 u11_3.py
+  342  python3 u11_3.py
+  343  python3 u11_3.py
+  344  python3 u11_3.py
+  345  python3 u11_3.py
+  346  python3 u11_a3_AntonKriese_SimonSasse_RMSD.py
+  347  gcc --version
+  348  brew install gcc@7
+  349  g++ --version
+  350  g++-7 --version
+  351  g++ --version
+  352  gcc --version
+  353  brew install gcc@7
+  354  brew install git
+  355  brew update gcc
+  356  brew upgrade gcc
+  357  brew upgrade g++
+  358  brew install gcc
+  359  brew install cmake
+  360  xcode-select --install
+  361  brew reinstall gcc
+  362  brew cleanup
+  363  brew upgrade all
+  364  brew upgrade -all
+  365  brew upgrade 
+  366  gcc --version
+  367  /Users/simsalabim/Google\ Drive/SHK-Stelle/tutorial/build/hello_world ; exit;
+  368  cd
+  369  cd Desktop
+  370  touch seqan_compile.txt
+  371  nano seqan_compile.txt
+  372  /Users/simsalabim/Google\ Drive/SHK-Stelle/tutorial/build/hello_world ; exit;
+  373  /Users/simsalabim/Google\ Drive/SHK-Stelle/tutorial/build/hello_world ; exit;
+  374  exit
+  375  cd ..
+  376  cd ..
+  377  cd build
+  378  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  379  make
+  380  make
+  381  ./hello_world
+  382  make
+  383  ./hello_world
+  384  make
+  385  ./hello_world
+  386  make
+  387  ./hello_world
+  388  make
+  389  ./hello_world
+  390  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  391  make
+  392  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  393  make
+  394  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  395  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  396  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  397  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  398  make
+  399  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  400  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  401  cd ..
+  402  cd ..
+  403  cd tut1
+  404  git clone --recurse-submodules https://github.com/seqan/seqan3.git
+  405  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  406  cd build
+  407  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  408  make
+  409  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  410  make
+  411  make
+  412  ./tut1
+  413  ./tut1 hallo
+  414  ./tut1 hallo SImon 
+  415  ./tut1 "Hallo Simon Sasse" 
+  416  clear
+  417  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  418  make
+  419  ./tut1
+  420  ./tut1 hallo
+  421  cd ..
+  422  cd ..
+  423  cd tutorial
+  424  cd build
+  425  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  426  clear
+  427  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  428  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  429  make
+  430  make hello_world
+  431  make clean
+  432  make -k
+  433  make -k
+  434  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  435  make 
+  436  ./tutorial_main hello
+  437  ./tutorial1_main hello
+  438  make 
+  439  ./tutorial1 SIMONSASSE
+  440  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  441  make 
+  442  make 
+  443  make 
+  444  make 
+  445  ./parser_tut
+  446  make 
+  447  ./parser_tut
+  448  make 
+  449  ./parser_tut
+  450  make 
+  451  make 
+  452  make 
+  453  ./parser_tut ../source/seq.fasta
+  454  make 
+  455  make 
+  456  make 
+  457  ./parser_tut ../source/seq.fasta
+  458  make 
+  459  ./parser_tut ../source/seq.fasta
+  460  make 
+  461  make 
+  462  make 
+  463  make 
+  464  make 
+  465  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  466  make 
+  467  ./parser --version
+  468  make -h/--help
+  469  make -h/--help -d
+  470  make -h/--help hallo
+  471  ./parser -h
+  472  ./parser -h/--help
+  473  ./parser --help
+  474  ./parser -hh
+  475  ./parser -hh hallo
+  476  ./parser -hh halloduda
+  477  ./parser -hh halloduda hallo
+  478  make 
+  479  make 
+  480  make 
+  481  make 
+  482  ./parser -hh halloduda hallo
+  483  ./parser -hh halloduda 
+  484  ./parser halloduda 
+  485  ./parser halloduda 
+  486  ./parser halloduda -h
+  487  ./parser halloduda --copyright
+  488  ./parser halloduda 
+  489  make 
+  490  ./parser --help
+  491  ./parser --version
+  492  make 
+  493  ./parser --help
+  494  ./parser --url
+  495  ./parser --version
+  496  ./parser 
+  497  ./parser hallo
+  498  ./parser -hh
+  499  ./parser --copyright
+  500  make 
+  501  make 
+  502  make 
+  503  make 
+  504  make 
+  505  -
+  506  ./parser --help
+  507  ./parser -h
+  508  ./parser 
+  509  make 
+  510  ./parser 
+  511  ./parser -h
+  512  ./parser -h -H
+  513  ./parser 
+  514  ./parser -y 2013 ../source/data.tsv
+  515  ./parser -H -y 2013 ../source/data.tsv
+  516  ./parser -H -y 2014 ../source/data.tsv
+  517  make 
+  518  ./parser -H -y 2013 ../source/data.tsv
+  519  ls
+  520  ./parser -H -y 2013 ../source/data.tsv
+  521  ./parser -y 2013 ../source/data.tsv
+  522  make 
+  523  ./parser -y 2013 ../source/data.tsv
+  524  make 
+  525  ./parser -y 2013 ../source/data.tsv
+  526  ./parser -y=2013 ../source/data.tsv
+  527  ./parser -H -y 2013 ../source/data.tsv
+  528  ./parser -y=2013 ../source/data.tsv
+  529  ./parser -H -y 2014 ../source/data.tsv
+  530  make 
+  531  ./parser -H -y 2014 ../source/data.tsv
+  532  make 
+  533  ./parser -H -y 2014 ../source/data.tsv
+  534  make 
+  535  ./parser -H -y 2014 ../source/data.tsv
+  536  ./parser -H -y 2014 ../source/data.tsv
+  537  ./parser -H -y 2014 ../source/data.tsv
+  538  ./parser -H -y 2014 ../source/data.tsv
+  539  ./parser -H -y 2014 ../source/data.tsv
+  540  ./parser -H -y 2014 ../source/data.rtf
+  541  ./parser -H -y 2014 ../source/data.txt
+  542  ./parser -H -y 2014 ../source/data.txt
+  543  ./parser -H -y 2014 ../source/data.txt
+  544  ./parser -H -y 2010 --aggregate-by median ../source/data.txt
+  545  ./parser -H -y 2010 --aggregate-by mean ../source/data.txt
+  546  ./parser -H -y 2014 --aggregate-by mean ../source/data.txt
+  547  make 
+  548  ./parser -H -y 2014 --aggregate-by mean ../source/data.txt
+  549  make 
+  550  ./parser -H -y 2014 --aggregate-by mean ../source/data.txt
+  551  ./parser -H -y 2010 --aggregate-by mean ../source/data.txt
+  552  make 
+  553  ./parser -H -y 2010 --aggregate-by mean ../source/data.txt
+  554  make 
+  555  make 
+  556  make 
+  557  make 
+  558  ./parser -H -s 1 --season 3 -s 7 --aggregate-by median ../source/data.txt
+  559  ./parser -hh
+  560  make 
+  561  ./parser -hh
+  562  ./parser -H -s 1 --season 3 -s 7 --aggregate-by median ../source/data.txt
+  563  ./parser -H --aggregate-by median ../source/data.txt
+  564  make 
+  565  make 
+  566  ./parser -H --aggregate-by median ../source/data.txt
+  567  ./parser -H -s 1 --season 3 -s 7 --aggregate-by median ../source/data.txt
+  568  ./parser -H -s 1 --season 3 -s 9 --aggregate-by median ../source/data.txt
+  569  make 
+  570  ./parser -H -s 1 --season 3 -s 9 --aggregate-by median ../source/data.txt
+  571  ./parser -H -s 1 --season 3 -s 9 --aggregate-by media ../source/data.txt
+  572  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  573  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  574  make
+  575  make
+  576  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  577  make
+  578  make
+  579  make
+  580  ./concept_tut
+  581  ./concept_tut
+  582  make
+  583  make
+  584  make
+  585  make
+  586  make
+  587  ./concept_tut
+  588  make
+  589  ./concept_tut
+  590  make
+  591  ./concept_tut
+  592  make
+  593  make
+  594  make
+  595  make
+  596  make
+  597  ./concept_tut
+  598  ./concept_tut -h
+  599  ./concept_tut -i 10
+  600  ./concept_tut -i 9
+  601  ./concept_tut -i 9 -j 20
+  602  ./concept_tut -i 9 -j 21
+  603  ./concept_tut -i 9 -j 81
+  604  ./concept_tut -i 9 -j 36
+  605  cd
+  606  cd Documents
+  607  $ ssh-keygen -t rsa 4096 -C "simonsasse97@gmail.com"
+  608   ssh-keygen -t rsa 4096 -C "simonsasse97@gmail.com"
+  609   ssh-keygen -t rsa -C "simonsasse97@gmail.com"
+  610   ssh-keygen -t rsa -C "simonsasse97@gmail.com"
+  611   ssh-keygen -t rsa -C "simonsasse97@gmail.com"
+  612   ssh-keygen -t rsa -C "simonsasse97@gmail.com"
+  613  cat ~.ssh/id_rsa.pub
+  614  cat ~/.ssh/id_rsa.pub
+  615  cat ~/.ssh/id_rsa.pub
+  616  vim ~/.ssh/id_rsa.pub
+  617  cd /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/alBiÜbung/uebung11/
+  618  cd ..
+  619  cd ..
+  620  cd ..
+  621  cd ..
+  622  cd SHK-Stelle/tutorial
+  623  git clone --recurse-submodules https://github.com/seqan/seqan3.git
+  624  ls
+  625  cd seqan3
+  626  ls
+  627  cd ..
+  628  cmake_minimum_required (VERSION 3.4)\nproject (seqan3_tutorial CXX)\nset(SeqAn3_DIR "${CMAKE_SOURCE_DIR}/../seqan3/build_system")\nfind_package (SeqAn3 REQUIRED)\nadd_executable (hello_world hello_world.cpp)\ntarget_link_libraries (hello_world seqan3::seqan3)
+  629  cmake_minimum_required (VERSION 3.4)
+  630  project (seqan3_tutorial CXX)
+  631  touch CMakeLists.txt
+  632  cd ..
+  633  cd tut
+  634  cd tutorial/build
+  635  cmake ../source\nmake\n./hello_world
+  636  cmake ../source
+  637  make
+  638  cmake ../source\nmake\n./hello_world
+  639  cmake ../source\nmake\n./hello_world
+  640  cmake ../source\nmake\n./hello_world
+  641  cmake ../source\nmake\n./hello_world
+  642  brew reinstall cmake
+  643  cmake ../source\nmake\n./hello_world
+  644  gcc --version
+  645  g++ --version
+  646  cmake ../source\nmake\n./hello_world
+  647  gcc_select
+  648  gcc_select -l
+  649  cmake ../source\nmake\n./hello_world
+  650  gcc --version
+  651  brew reinstall cmake
+  652  cmake ../source\nmake\n./hello_world
+  653  gcc update
+  654  gcc -update
+  655  gcc --update
+  656  gcc -upgrade
+  657  gcc --version
+  658  g++ --version
+  659  c++
+  660  clang
+  661  clang --version
+  662  gcc -dumpversion
+  663  sudo brew reinstall gcc
+  664  cd
+  665  cd /Library/Developer/CommandLineTools/Packages/\n2 open .
+  666  cd /Library/Developer/CommandLineTools/Packages/\nopen .
+  667  cd /Library/Developer/CommandLineTools/Packages/\no
+  668  cd /Library/Developer/CommandLineTools/Packages/
+  669  cd /Library/Developer/CommandLineTools/
+  670  ls
+  671  cd SDKs
+  672  ls
+  673  gcc-9 --version
+  674  g++-9
+  675  g++-9 --version
+  676  cd
+  677  echo "PATH=\"/usr/local/bin:$PATH\"" >> ~/.bash_profile
+  678  gcc -dumpversion
+  679  cd /usr/local/Cellar\n  rm cc gcc c++ g++\n  ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9 cc\n  ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9 gcc\n  ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/c++-9 c++\n  ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 g++
+  680  cd /usr/bin\n  rm cc gcc c++ g++\n  ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9 cc\n  ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9 gcc\n  ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/c++-9 c++\n  ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 g++
+  681  sudo cd /usr/bin\n  rm cc gcc c++ g++\n  ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9 cc\n  ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9 gcc\n  ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/c++-9 c++\n  ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 g++
+  682  sudo cd /usr/bin\n  rm cc gcc c++ g++\n  sudo ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9 cc\n  sudo ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/gcc-9 gcc\n  sudo ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/c++-9 c++\n  sudo ln -s /usr/local/Cellar/gcc/9.2.0_3/bin/g++-9 g++
+  683  echo PATH=/usr/local/Cellar/gcc/9.2.0_3/bin >> ~/.bash_profile\n
+  684  gcc --version
+  685  gcc -dumpversion
+  686  g++ -dumpversion
+  687  cd
+  688  gcc
+  689  cd /Users/simsalabim/Google\ Drive/SHK-Stelle/tutorial
+  690  cmake ../source\nmake\n./hello_world
+  691  cd build
+  692  cmake ../source\nmake\n./hello_world
+  693  cmake ../source\nmake\n./hello_world
+  694  cmake -C <initial-cache>
+  695  cmake ../source\nmake\n./hello_world
+  696  gcc --version
+  697  clang --version
+  698  clang -dumpversion
+  699   command xcode-select --install 
+  700  gcc-9 -dumpversino
+  701  gcc-9 -dumpversion
+  702  gcc -dumpversion
+  703  llvm --version
+  704  gcc-9
+  705  clear
+  706  cmake ../source\nmake\n./hello_world
+  707  which g++
+  708  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source\nmake\n./hello_world
+  709  ls
+  710  rm -rf *
+  711  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  712  make
+  713  ./hello-world
+  714  ./ ../source/hello_world
+  715  cd ..
+  716  cd source
+  717  ./hello_world
+  718  cd ..
+  719  cd build
+  720  ./hello_world
+  721  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  722  make
+  723  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  724  ./hello_world
+  725  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  726  ./hello_world
+  727  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  728  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  729  cmake -DCMAKE_CXX_COMPILER=g++-9 ../source
+  730  make
+  731  make
+  732  ./hello_world
+  733  cd ..
+  734  cd seqan3-
+  735  cd seqan3-build/debug
+  736  cmake ../../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+  737  make
+  738  ls ~/.ssh
+  739  cd 
+  740  pwd
+  741  ssh-keygen -t rsa -b 4096 -C "simonsasse97@gmail.com"
+  742  cat /Users/simsalabim/.ssh/id_rsa.pub
+  743  cd
+  744  cd Documents
+  745  git clone git@github.com:simonsasse/seqan3.git
+  746  cd seqan3
+  747  zsh
+  748  git status
+  749  git remote -v 
+  750  git remote add upstream www.github.com/seqan/seqan3.git
+  751  git remote -v 
+  752  git remote update
+  753  git remote
+  754  git remote delete upstream
+  755  git remote remove upstream
+  756  git remote -v 
+  757  git remote add https://github.com/seqan/seqan3.git
+  758  git remote add upstream https://github.com/seqan/seqan3.git
+  759  git remote update
+  760  git branch fix_typo
+  761  git checkout fix_typo
+  762  ls
+  763  git diff
+  764  git status
+  765  git add include/seqan3/argument_parser/argument_parser.hp
+  766  git add include/seqan3/argument_parser/argument_parser.hpp
+  767  git status
+  768  git commit -m "[DOC] fix typo in add_positional_option."
+  769  git status
+  770  git log 
+  771  git push origin fix_typo
+  772  cd Documents/seqan3
+  773  git status
+  774  git status
+  775  cd
+  776  cd Documents/
+  777  git status
+  778  cd seq
+  779  cd seqan3
+  780  git status
+  781  git checkout master
+  782  git status
+  783  git pull
+  784  git pull origin
+  785  git fetch origin
+  786  git merge origin/master master
+  787  git checktout fix_typo
+  788  git checkout fix_typo
+  789  git add /Users/simsalabim/Documents/seqan3/test/unit/search/search_scheme_algorithm_test.cpp
+  790  git status
+  791  git status
+  792  cd ..
+  793  mkdir seqan3-build
+  794  ls -al seqan3
+  795  ls -al .
+  796  cd seqan3-build
+  797  g++ -v
+  798  g++-9 -v
+  799  mkdir unit
+  800  cd unit
+  801  cmake -DCMAKE_CXX_COMPILER=g++-9 ../../seqan3/test/unit
+  802  cd ..
+  803  cd ..
+  804  cd seqan3
+  805  cd submodules
+  806  l
+  807  ls 
+  808  cd range-v3
+  809  ls 
+  810  cd ..
+  811  cd ..
+  812  git submodule init
+  813  git submodule update
+  814  cd ..
+  815  cd seqan3-build
+  816  ls -al
+  817  cd unit
+  818  cmake -DCMAKE_CXX_COMPILER=g++-9 ../../seqan3/test/unit
+  819  rm -rf *
+  820  cmake -DCMAKE_CXX_COMPILER=g++-9 ../../seqan3/test/unit
+  821  make
+  822  make -j 4
+  823  l
+  824  ls -al
+  825  ccache
+  826  make
+  827  l
+  828  ls
+  829  cd alphabet
+  830  cd nucleotide
+  831  ls
+  832  make dna4_test
+  833  ./dna4_test
+  834  ctest 
+  835  cd ..
+  836  ctest
+  837  cd ..
+  838  ls
+  839  cd argument_parser/detail/
+  840  ctest
+  841  make format_man_test
+  842  ./format_man_test
+  843  make format_man_test
+  844  ./format_man_test
+  845  ./format_man_test --gtest_filter=format_man_test.empty_information
+  846  make format_man_test
+  847  ./format_man_test --gtest_filter=format_man_test.empty_information
+  848  make format_man_test
+  849  make format_man_test
+  850  make format_man_test
+  851  make format_man_test
+  852  ./format_man_test
+  853  make format_man_test
+  854  ./format_man_test
+  855  make format_man_test
+  856  ./format_man_test
+  857  ./format_man_test
+  858  make format_man_test
+  859  ./format_man_test
+  860  ./format_man_test --gtest_filter=format_man_test.empty_information
+  861  ./format_man_test --gtest_filter=format_man_test.full_information
+  862  make format_man_test
+  863  ./format_man_test
+  864  make format_man_test
+  865  ./format_man_test
+  866  make format_man_test
+  867  ./format_man_test
+  868  make format_man_test
+  869  ./format_man_test
+  870  make format_man_test
+  871  ./format_man_test
+  872  ./format_man_test --gtest_filter=format_man_test.full_information
+  873  make format_man_test
+  874  ./format_man_test
+  875  ls
+  876  cd ..
+  877  cd ..
+  878  cd search
+  879  make search_scheme_algorithm_test\[1\]_include.cmake
+  880  make search_scheme_algorithm_test.cpp
+  881  ctest
+  882  make
+  883  make -j 4
+  884  ./search_scheme_algorithm_test
+  885  git status
+  886  make
+  887  ./search_scheme_algorithm_test
+  888  ls
+  889  cd ..
+  890  cd argument_parser/detail
+  891  make format_man_test
+  892  make format_man_test
+  893  ./format_man_test
+  894  git status
+  895  cd ..
+  896  cd ..
+  897  cd ..
+  898  cd ..
+  899  cd seqan3
+  900  git status
+  901  git push
+  902  git push origin fix_typo
+  903  git pull
+  904  git log
+  905  git push origin fix_typo
+  906  git pull
+  907  git pull origin fix_typo
+  908  cd ..
+  909  cd ../..
+  910  cd seqan3
+  911  git status
+  912  git diff head
+  913  git diff 
+  914  git checkout HEAD
+  915  git status
+  916  git diff --stat --cached [remote/branch]
+  917  git diff --stat --cached 
+  918  git diff [remote repo/fix_typo]\n
+  919  git diff [origin repo/fix_typo]\n
+  920  git diff [origin/fix_typo]\n
+  921  git diff [master/fix_typo]\n
+  922  git cherry -v
+  923  git cherry -v [upstream]
+  924  git reset HEAD
+  925  git status
+  926  git status
+  927  git diff head
+  928  git diff HEAD
+  929  git log
+  930  git add /Users/simsalabim/Documents/seqan3/test/unit/argument_parser/detail/format_man_test.cpp
+  931  git status
+  932  git add test/unit/argument_parser/detail/format_man_test.cpp
+  933  git status
+  934  git status
+  935  git rebase -i master
+  936  git rebase -i master
+  937  git rebase -i master
+  938  git rebase -i master
+  939  git status
+  940  git rebase -i master
+  941  git push
+  942  git status
+  943  git rebase --i
+  944  git rebase -i
+  945  git rebase -i master
+  946  git log
+  947  git push
+  948  git push origin fix_typo
+  949  git diff
+  950  git pull
+  951  git pull origin master
+  952  git push origin fix:
+  953  git push origin fix_typo
+  954  git pull origin master
+  955  git pull origin fix_typo
+  956  git status
+  957  git log
+  958  git rebase -i
+  959  git rebase -i master
+  960  git push
+  961  git push origin fix_typo
+  962  git push --help
+  963  git pull --help
+  964  git status
+  965  git checkout master
+  966  git status
+  967  git remote update
+  968  git checkout fix_typo
+  969  git status
+  970  git rebase -i
+  971  git rebase -i master
+  972  git push origin fix_typo
+  973  git status
+  974  git dif
+  975  git diff
+  976  git pull
+  977  git pull master fix_typo
+  978  git pull origin fix_typo
+  979  git status
+  980  cd Documents/seqan3
+  981  git status
+  982  git pull origin fix_typo
+  983  git pull origin fix_typo
+  984  git unstage all
+  985  git reset
+  986  git pull origin fix_typo
+  987  git pull origin fix_typo
+  988  git push origin fix_typo
+  989  git log
+  990  git rebase -i 
+  991  git rebase -i master
+  992  cd Documents/seqan3
+  993  git log
+  994  git status
+  995  git rebase --edit-todo
+  996  git rebase --continue
+  997  git status
+  998  git rebase --edit-todo
+  999  git rebase --edit-todo
+ 1000  /Users/simsalabim/Documents/seqan3-build/unit/argument_parser/detail/format_man_test ; exit;
+ 1001  cd ..
+ 1002  cd seqan3
+ 1003  ~/.zshrc
+ 1004  sudo ~/.zshrc
+ 1005  sudo open ~/.zshrc
+ 1006  quit
+ 1007  zsh
+ 1008  git checkout master
+ 1009  git pull origin master
+ 1010  git rebase origin
+ 1011  git checkout fix_typo
+ 1012  git rebase origin
+ 1013  git status
+ 1014  git rebase master
+ 1015  git remote update
+ 1016  git log
+ 1017  git status
+ 1018  gitk 
+ 1019  gitk --all
+ 1020  gitk --all 
+ 1021  gitk --all  &
+ 1022  git remote -v
+ 1023  git rebase upstream/master
+ 1024  git rebase -i upstream/master
+ 1025  git config --global --edit
+ 1026  git commit --amend --reset-author
+ 1027  git rebase -i upstream/master
+ 1028  git commit --amend --reset-author
+ 1029  git rebase --continue
+ 1030  git commit --amend --reset-author
+ 1031  git rebase --continue
+ 1032  git push origin fix_typo
+ 1033  git push origin fix_typo -f
+ 1034  git status
+ 1035  git add -p
+ 1036  git status
+ 1037  git diff
+ 1038  git diff --staged
+ 1039  git status
+ 1040  git checkout -- .
+ 1041  git status
+ 1042  git reset HEAD .
+ 1043  git status
+ 1044  git checkout -- .
+ 1045  git status
+ 1046  cd
+ 1047  cd Documents/seqan3
+ 1048  git status
+ 1049  git rebase -i 
+ 1050  git rebase -i master
+ 1051  git status
+ 1052  git rebase -i
+ 1053  git rebase -i master
+ 1054  git push
+ 1055  git push origin fix_typo
+ 1056  git push -f origin fix_typo
+ 1057  git status
+ 1058  git rebase -i master
+ 1059  rebase continue
+ 1060  git rebase continue
+ 1061  git status
+ 1062  git rebase --edit-todo
+ 1063  git status
+ 1064  git rebase --continue
+ 1065  git rebase -i master
+ 1066  git push -f origin master
+ 1067  git status
+ 1068  git push -f origin fix_typo
+ 1069  gitk
+ 1070  git branch -a
+ 1071  git checkout -b new_branch
+ 1072  git branch -a
+ 1073  git fetch origin
+ 1074  git status
+ 1075  git fetch origin/remote
+ 1076  git branch -a
+ 1077  git fetch origin/master
+ 1078  git fetch origin
+ 1079  git checkout fix_typo
+ 1080  git status
+ 1081  git fetch origin
+ 1082  git pull origin
+ 1083  git pull origin fix_typo
+ 1084  git rebase -i fix_typo
+ 1085  git rebase -i master
+ 1086  git rebase --abort
+ 1087  git rebase -i master
+ 1088  git pull origin master
+ 1089  git checkout master
+ 1090  git status
+ 1091  $ git merge origin/master
+ 1092  git checkout fix_typo
+ 1093  git merge master
+ 1094  git fetch master
+ 1095  git rebase -i fix_typo
+ 1096  git rebase -i master
+ 1097  git push -f 
+ 1098  git push -f origin fix_typo
+ 1099  git checkout master+
+ 1100  git checkout master
+ 1101  git remote update
+ 1102  git rebase upstream master
+ 1103  git rebase upstream/master
+ 1104  git push
+ 1105  git checkout fix_typo
+ 1106  git rebase upstream/master
+ 1107  git push
+ 1108  cd
+ 1109  cd Desktop
+ 1110  touch updateBranchGit.txt
+ 1111  open updateBranchGit.txt
+ 1112  cd
+ 1113  cd Documents/seqan3
+ 1114  cd ..
+ 1115  cd seqan3-build
+ 1116  ls
+ 1117  cd unit
+ 1118  ls
+ 1119  cd test
+ 1120  ls
+ 1121  cd 
+ 1122  cd Documents/seqan3/test/unit/argument_parser/detail
+ 1123  make format_man_test
+ 1124  make
+ 1125  make format_man_test
+ 1126  ctest
+ 1127  cd ../..
+ 1128  make
+ 1129  cd
+ 1130  cd Documents/seqan3-build/unit
+ 1131  cd argument_parser/detail
+ 1132  make
+ 1133  ctest
+ 1134  make format_man_test
+ 1135  ./format_man_test
+ 1136  git 
+ 1137  git checkout fix_typo
+ 1138  cd
+ 1139  cd Documents/seqan3cd
+ 1140  cdls
+ 1141  ls
+ 1142  cd /usr/share
+ 1143  ls
+ 1144  zsh
+ 1145  cd 
+ 1146  cd Documents/seqan3
+ 1147  git rebase upstream/master
+ 1148  git checkout master
+ 1149  git rebase upstream/master
+ 1150  cd
+ 1151  cd Google\ Drive
+ 1152  ls
+ 1153  cd SHK-Stelle/Python\ Examples\ Teaching
+ 1154  python3 count_unknowns.py
+ 1155  python3 ident_seq.py
+ 1156  cd
+ 1157  ls
+ 1158  python3 ident_seq.py
+ 1159  python3 file_conversion.py
+ 1160  cd Documents/seqan3/test/unit/argument_parser/detail
+ 1161  make format_man_test.cpp
+ 1162  make format_man_test
+ 1163  ./format_man_test
+ 1164  cmake -DCMAKE_CXX_COMPILER=g++-9 format_man_test.cpp
+ 1165  cmake -DCMAKE_CXX_COMPILER=g++-9 
+ 1166  ctest
+ 1167  cmake -DCMAKE_CXX_COMPILER=g++-9 ../../seqan3/test/unit/argument_parser
+ 1168  cmake -DCMAKE_CXX_COMPILER=g++-9 ../../seqan3/test/unit/
+ 1169  cd
+ 1170  cd Documents/seqan3-build/
+ 1171  ls
+ 1172  cd unit
+ 1173  ls
+ 1174  make
+ 1175  make argument_parser/detail/format_man_test
+ 1176  ./format_man_test
+ 1177  make argument_parser/detail/
+ 1178  make argument_parser/detail/format_man_test
+ 1179  make -DCMAKE_CXX_COMPILER=g++-9 argument_parser
+ 1180  cmake -DCMAKE_CXX_COMPILER=g++-9 argument_parser/
+ 1181  cmake -DCMAKE_CXX_COMPILER=g++-9 argument_parser/detail/format_man_test
+ 1182  cmake -DCMAKE_CXX_COMPILER=g++-9 argument_parser/detail/f
+ 1183  cmake -DCMAKE_CXX_COMPILER=g++-9 argument_parser/detail/
+ 1184  cmake -DCMAKE_CXX_COMPILER=g++-9 
+ 1185  make argument_parser/detail/format_man_test
+ 1186  make argument_parser
+ 1187  make 
+ 1188  cd argument_parser/detail
+ 1189  ctest
+ 1190  cd ..
+ 1191  cd ..
+ 1192  cd ..
+ 1193  cd unit/alignment/scoring
+ 1194  ctest
+ 1195  cd ..
+ 1196  cd ..
+ 1197  ls
+ 1198  cd test
+ 1199  ls
+ 1200  cd ..
+ 1201  ctest
+ 1202  cd
+ 1203  cd Documents/seqan3
+ 1204  git status
+ 1205  git pull
+ 1206  git pull remote master
+ 1207  git pull origin master
+ 1208  git cherry-pick --abor
+ 1209  git cherry-pick --abort
+ 1210  git pull origin master
+ 1211  git status
+ 1212  git clean -f
+ 1213  git status
+ 1214  git clean -f -d
+ 1215  git status
+ 1216  git rebase -i master
+ 1217  git rebase --abort
+ 1218  git status
+ 1219  git pull origin master
+ 1220  git pull origin fix_typo
+ 1221  curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+ 1222  zsh
+ 1223  cd /Users/simsalabim/Google Drive/SHK-Stelle/Python Examples Teaching
+ 1224  cd /Users/simsalabim/Google\ Drive/SHK-Stelle/Python\ Examples\ Teaching
+ 1225  python3 translate_dna_to_aminoacids.py
+ 1226  cd
+ 1227  cd src
+ 1228  ls
+ 1229  cd usr
+ 1230  brew install samtools
+ 1231  samtools
+ 1232  samtools view -S -b /Users/simsalabim/Google Drive/SHK-Stelle/Python Examples Teaching/sam1.sam > /Users/simsalabim/Google Drive/SHK-Stelle/Python Examples Teaching/sam1.bam
+ 1233  samtools view -S -b /Users/simsalabim/Google\ Drive/SHK-Stelle/Python Examples Teaching/sam1.sam > /Users/simsalabim/Google\ Drive/SHK-Stelle/Python Examples Teaching/sam1.bam
+ 1234  samtools view -S -b /Users/simsalabim/Google\ Drive/SHK-Stelle/Python\ Examples\ Teaching/sam1.sam > /Users/simsalabim/Google\ Drive/SHK-Stelle/Python\ Examples\ Teaching/sam1.bam
+ 1235  clear
+ 1236  ./sam_to_bam.sh
+ 1237  chmod +x script-name-here.sh
+ 1238  chmod +x sam_to_bam.sh
+ 1239  ./sam_to_bam.sh
+ 1240  c++-9 fastq_to_fasta.cpp -o file_conv
+ 1241  cd
+ 1242  cd Documents/seqan3
+ 1243  cd
+ 1244  cd Documents/seqan3
+ 1245  ls
+ 1246  cd build_system
+ 1247  ls
+ 1248  cd
+ 1249  /Users/simsalabim/Google\ Drive/SHK-Stelle/tutorial/source
+ 1250  make
+ 1251  cd ..
+ 1252  cd build
+ 1253  make
+ 1254  ./fastq_to_fasta
+ 1255  make
+ 1256  ./fastq_to_fasta
+ 1257  make
+ 1258  ./fastq_to_fasta
+ 1259  make
+ 1260  ./sam_to_bam
+ 1261  git
+ 1262  git rebase
+ 1263  ./sam_to_bam
+ 1264  cd ..
+ 1265  git clone --recurse-submodules https://github.com/seqan/seqan3.git
+ 1266  cd build
+ 1267  make
+ 1268  ./sam_to_bam
+ 1269  sudo ./sam_to_bam
+ 1270  ./sam_to_bam
+ 1271  make
+ 1272  ./sam_to_bam
+ 1273  make
+ 1274  ./sam_to_bam
+ 1275  make
+ 1276  ./fastq_to_fasta
+ 1277  ./sam_to_bam
+ 1278  vim CMakeCache.txt
+ 1279  gdb ./sam_to_bam
+ 1280  ./sam_to_bam
+ 1281  valgrind ./sam_to_bam
+ 1282  ./sam_to_bam
+ 1283  make sam_to_bam
+ 1284  ./sam_to_bam
+ 1285  make sam_to_bam
+ 1286  ./sam_to_bam
+ 1287  cd
+ 1288  pip install pytorch
+ 1289  python3
+ 1290  curl -O https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh\nsh Miniconda3-latest-MacOSX-x86_64.sh
+ 1291  conda install pytorch torchvision -c pytorch
+ 1292  python3
+ 1293  miniconda3 
+ 1294  conda install pytorch torchvision -c pytorch
+ 1295  install pytorch torchvision -c pytorch
+ 1296  cd ..
+ 1297  source <path to conda>/bin/activate
+ 1298  source </Users/simsalabim/miniconda3>/bin/activate
+ 1299  sudo source </Users/simsalabim/miniconda3>/bin/activate
+ 1300  sudo source /Users/simsalabim/miniconda3/bin/activate
+ 1301  source /Users/simsalabim/miniconda3/bin/activate
+ 1302  conda init zsh
+ 1303  cd
+ 1304  conda install pytorch torchvision -c pytorch
+ 1305  Dokuments
+ 1306  ls
+ 1307  cd Documents
+ 1308  cd pytorch
+ 1309  python3 test
+ 1310  cd /Users/simsalabim/Google Drive/UNIKRAM/5Semester/genetik
+ 1311  cd /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/genetik
+ 1312  cd
+ 1313  cd Documents/seqan3
+ 1314  cd
+ 1315  cd Documents/seqan3
+ 1316  git rebase upstream/master
+ 1317  git status
+ 1318  git checkout fix_typo
+ 1319  git status
+ 1320  git rebase origin/master
+ 1321  cd /Users/simsalabim/Google\ Drive/SHK-Stelle/tutorial/source
+ 1322  cd ..
+ 1323  ls
+ 1324  cd build
+ 1325  make
+ 1326  ./fastq_to_fasta
+ 1327  ./sam_to_bam
+ 1328  make
+ 1329  ./sam_to_bam
+ 1330  make
+ 1331  ./sam_to_bam
+ 1332  make
+ 1333  ./sam_to_bam
+ 1334  make sam_to_bam.cpp
+ 1335  make sam_to_bam
+ 1336  ./sam_to_bam
+ 1337  make sam_to_bam
+ 1338  ./sam_to_bam
+ 1339  make sam_to_bam
+ 1340  ./sam_to_bam
+ 1341  make sam_to_bam
+ 1342  ./sam_to_bam
+ 1343  make sam_to_bam
+ 1344  ./sam_to_bam
+ 1345  make sam_to_bam
+ 1346  ./sam_to_bam
+ 1347  cd
+ 1348  /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/genetik
+ 1349  cd g
+ 1350  cd gruenstaeudl
+ 1351  clear
+ 1352  uname
+ 1353  pwd
+ 1354  .
+ 1355  tr -Ccu -d "Incorrecct spelling"
+ 1356  tr -d cc c
+ 1357  man tr
+ 1358  echo "Incorrect spelling" | tr -s c
+ 1359  tr -s c
+ 1360  x="incorrecct spelling"
+ 1361  $x
+ 1362  tr -s c $x
+ 1363  date
+ 1364  date '+%Y-%m-%d'
+ 1365  man date
+ 1366  man --version
+ 1367  sdcavcsavc
+ 1368  sdcavcsav
+ 1369  ./fastq_to_fasta
+ 1370  date '+%Y-%m-%d'
+ 1371  cd ~
+ 1372  ls
+ 1373  .bash_sessions
+ 1374  ls
+ 1375  cd
+ 1376  cd .
+ 1377  cd /
+ 1378  cd
+ 1379  cd /
+ 1380  ls
+ 1381  cd .
+ 1382  cd
+ 1383  cd --
+ 1384  cd
+ 1385  nano .bash_profile
+ 1386  logout
+ 1387  cd 
+ 1388  source .bash_profile
+ 1389  python3
+ 1390  nano .bash_logout
+ 1391  nano /.bash_logout
+ 1392  vim /.bash_logout
+ 1393  vim
+ 1394  nano
+ 1395  nano .bash_profile
+ 1396  ls --color=auto
+ 1397  ls --color auto
+ 1398  ls -color auto
+ 1399  ls
+ 1400  ls --color=auto
+ 1401  ls
+ 1402  cd
+ 1403  ls
+ 1404  ls -all
+ 1405  touch .bashrc
+ 1406  nano
+ 1407  nano .bashrc
+ 1408  nano
+ 1409  cd
+ 1410  nano .bashrc
+ 1411  rm
+ 1412  rm .bashrc
+ 1413  ls -all
+ 1414  nano .bashrc
+ 1415  rm test.txt
+ 1416  _cygrunsrv
+ 1417  cd /Users/simsalabim/Google\ Drive/UNIKRAM/5Semester/genetik/gruenstaeudl
+ 1418  touch test
+ 1419  rm test
+ 1420  test
+ 1421  open test
+ 1422  cd
+ 1423  nano .bashrc
+ 1424  nano .bash_profile
+ 1425  touch test
+ 1426  rm test
+ 1427  test
+ 1428  ls -all
+ 1429  source ~/.bash-profile
+ 1430  ls -all
+ 1431  source ~/.bash_profile
+ 1432  nano .bash_profile
+ 1433  rm
+ 1434  nano
+ 1435  login
+ 1436  user
+ 1437  source ~/.bash_profile
+ 1438  nano
+ 1439  nano .bash_profile
+ 1440  source ~/.bash_profile
+ 1441  nano
+ 1442  zsh
+ 1443  open zsh
+ 1444  run zsh
+ 1445  nano
+ 1446  source ~/.bash_profile
+ 1447  nano
+ 1448  .zshrc
+ 1449  ls
+ 1450  ls -all
+ 1451  nano .zshrc
+ 1452  nano .zsh_profile
+ 1453  ls
+ 1454  ls -all
+ 1455  touch test
+ 1456  rm test
+ 1457  nano .oh-my-zsh
+ 1458  nano .zlogin
+ 1459  source .zlogin
+ 1460  nano .zlogin
+ 1461  $shell
+ 1462  echo $SHELL
+ 1463  $shell
+ 1464  clear
+ 1465  bash
+ 1466  shell
+ 1467  bash
+ 1468  which zsh
+ 1469  which R
+ 1470  which python3
+ 1471  which ?sh
+ 1472  which | grep "sh"
+ 1473  ls bin | grep "sh"
+ 1474  ls | grep "sh"
+ 1475  ls /bin/ | grep "sh"
+ 1476  ksh
+ 1477  dash
+ 1478  lsb_release -a
+ 1479  uname
+ 1480  unam -a
+ 1481  uname -a
+ 1482  ls
+ 1483  echo ~
+ 1484  pwd
+ 1485  $pwd
+ 1486  echo $pwd
+ 1487  echo $PWD
+ 1488  user
+ 1489  groups
+ 1490  echo "ich \n hallo"
+ 1491  man echo
+ 1492  echo "ich \n hallo" | tr -d "\n"
+ 1493  x="Ich bin:\n -hungrig \n müde\n"
+ 1494  echo "$x" | tr -d "\n"
+ 1495  x="Ich bin:\n -hungrig \n -müde\n"
+ 1496  echo "$x" | tr -d "\n"
+ 1497  man echo
+ 1498  echo "$x" | tr -d "\n" -s " "
+ 1499  echo "$x" | tr -d "\n" | tr -s " "
+ 1500  echo "$x" | tr -d "\n" | tr -d " "
+ 1501  nano test
+ 1502  echo test | tr -d "\n" | tr -d " "
+ 1503  echo ¢test | tr -d "\n" | tr -d " "
+ 1504  echo $test | tr -d "\n" | tr -d " "
+ 1505  test | tr -d "\n" | tr -d " "
+ 1506  nano test
+ 1507  cat test| echo | tr -d "\n" | tr -d " "
+ 1508  nano test
+ 1509  cat test| tr -d "\n" | tr -d " "
+ 1510  nano test
+ 1511  echo -E "hallo \n simon"
+ 1512  echo  "hallo \n simon"
+ 1513  touch hallo && rm hallo
+ 1514  mkdir hallo ; touch hallo/hallo ; rm hallo/hallo ; 
+ 1515  mkdir hallo ; touch hallo/hallo ; rm hallo/hallo ; echo "work"
+ 1516  rm hallo
+ 1517  rmd hallo
+ 1518  rm -d hallo
+ 1519  cd halloi
+ 1520  cd hallo
+ 1521  ls
+ 1522  rm hallo
+ 1523  ls
+ 1524  cd
+ 1525  rm -d hallo
+ 1526  clear
+ 1527  ls
+ 1528  cd Downloads
+ 1529  cd --
+ 1530  cd -
+ 1531  cd Downloads
+ 1532  cd --
+ 1533  cd -
+ 1534  cd Downloads
+ 1535  cd -
+ 1536  cd
+ 1537  touch test
+ 1538  echo "inhalt: \n" >> test
+ 1539  cat test
+ 1540  echo "inhalt: \n" > test
+ 1541  cat test
+ 1542  echo "inhalt: \n" >> test
+ 1543  cat test
+ 1544  cat Kalium_1.png
+ 1545  open Kalium_1.png
+ 1546  cat Kalium_1.png
+ 1547  open Kalium_1.png
+ 1548  rm Kalium_1.png
+ 1549  ls
+ 1550  rm test
+ 1551  cat a.out
+ 1552  open a.out
+ 1553  file a.out
+ 1554  echo text
+ 1555  touch text.txt
+ 1556  cat text.txt
+ 1557  echo "inhalt: \n" >> test
+ 1558  cat text.txt
+ 1559  echo "inhalt: \n" >> text.txt
+ 1560  cat text.txt
+ 1561  echo text.txt
+ 1562  echo | cat text.txt
+ 1563  echo | text.txt
+ 1564  echo | open text.txt
+ 1565  cat text.txt | cat
+ 1566  clear
+ 1567  cat < text.txt
+ 1568  man <<<
+ 1569  man <<
+ 1570  <<< --help
+ 1571  man echo
+ 1572  echo -n | cat text.txt
+ 1573  echo | cat text.txt
+ 1574  sleep 40)
+ 1575  sleep 40 &
+ 1576  ps
+ 1577  cal
+ 1578  lac
+ 1579  cal
+ 1580  cal next
+ 1581  cal 3
+ 1582  cal 12
+ 1583  clear
+ 1584  cal 3
+ 1585  cal 2020
+ 1586  echo | rev "nana"
+ 1587  echo | rv "nana"
+ 1588  echo | ohce "nana"
+ 1589  print "nana"
+ 1590  tnirp "nana"
+ 1591  tac "nana"
+ 1592  man reverse
+ 1593  man rev
+ 1594  rev text.txt
+ 1595  nano text.txt
+ 1596  rev text.txt
+ 1597  rt(256)
+ 1598  rt(4)
+ 1599  calc
+ 1600  comp
+ 1601  calculator
+ 1602  4+3
+ 1603  calc 2-3
+ 1604  calc (2-3)
+ 1605  bc
+ 1606  bc -i
+ 1607  man bc | grep root
+ 1608  man bc | grep square root
+ 1609  man bc | grep "square root"
+ 1610  man bc | grep square
+ 1611  awk
+ 1612  man awk
+ 1613  man bc | grep -A 4 square
+ 1614  man bc | grep -A 4 -B 8 square
+ 1615  man bc | grep -A 4 -B 4 square
+ 1616  man bc | grep -A 4 -B 4 square -color
+ 1617  bc sqrt(256)
+ 1618  bc
+ 1619  bc <<< sqrt(256)
+ 1620  man cal
+ 1621  cal +1
+ 1622  cal -m3 | grep"^1|^2| ^3"
+ 1623  cal -m3 | grep "^1|^2| ^3"
+ 1624  cal -m3 | grep "^1|^2| ^3" | tr -d "\n"
+ 1625  echo | cal -m3 | grep "^1|^2| ^3" | tr -d "\n"
+ 1626  cat text.txt
+ 1627  echo text.txt
+ 1628  hist
+ 1629  history
+ 1630  history --help
+ 1631  history -h
+ 1632  man history
+ 1633  history -head
+ 1634  history head
+ 1635  history | head
+ 1636  man history | head
+ 1637  history nice
+ 1638  ping -c3 localhost
+ 1639  ping -c3 www.google.com
+ 1640  ping -c3 www.brassriot.com
+ 1641  ping -c3 
+ 1642  ping -c3 simonsasse97
+ 1643  clear
+ 1644  whoami
+ 1645  ping -c3 whoami
+ 1646  ping -c3 | whoami
+ 1647  finger ingat98
+ 1648  finger whoami
+ 1649  finger gruenstaudl
+ 1650  sl-h
+ 1651  bash
+ 1652  sl-h
+ 1653  nano .zshrc
+ 1654  vsd
+ 1655  curl -s "https://www.ncbi.nlm.nih.gov/nuccore/MT039887"
+ 1656  clear
+ 1657  curl -s "www.brassriot.com" | grep -A 2 -B 3 "Kontakt"
+ 1658  curl -s "www.brassriot.com" | grep -A 2 -B 3 ""
+ 1659  curl -s "www.brassriot.com" | grep -A 2 -B 3 "K"
+ 1660  curl -s "www.brassriot.com" 
+ 1661  curl -s "www.brassriot.wordpress.com" 
+ 1662  ssh simonsasse97@andorra.zedat.fu-berlin.de
+ 1663  history grep ssh
+ 1664  history | grep ssh
+ 1665  /Users/simsalabim/Google\ Drive/SHK-Stelle/tutorial/source
+ 1666  git clone git@github.com:simonsasse/teaching.git
+ 1667  cd teaching
+ 1668  git add .
+ 1669  git commit -m "updated Filenames in /data"
+ 1670  git push -u origin master
+ 1671  cd ../../build
+ 1672  make 
+ 1673  history | grep cmake
+ 1674  cmake -DCMAKE_CXX_COMPILER=g++-9 
+ 1675  cd ..
+ 1676  cd source
+ 1677  git status
+ 1678  cd ../build
+ 1679  cmake -DCMAKE_CXX_COMPILER=g++-9 
+ 1680  cmake clean
+ 1681  cmake clear
+ 1682  cmake -DCMAKE_CXX_COMPILER=g++-9 
+ 1683  cmake clear
+ 1684  cmake clean
+ 1685  cmake clear
+ 1686  cmake -DCMAKE_CXX_COMPILER=g++-9 
+ 1687  cd /Users/simsalabim/Google\ Drive/SHK-Stelle/tutorial
+ 1688  cd build
+ 1689  cmake -DCMAKE_CXX_COMPILER=g++-9 
+ 1690  cmake ../source -DCMAKE_CXX_COMPILER=g++-9 
+ 1691  make
+ 1692  clean
+ 1693  clear
+ 1694  make translate_nucleotides_to_protein
+ 1695  ./translate_nucleotides_to_protein -i ../source/data/some_identical_sequences.fasta -o ../source/out_data/dna_to_prot.fasta
+ 1696  cd Documents
+ 1697  gti clone git@github.com:simonsasse/teaching.git
+ 1698  git clone git@github.com:simonsasse/teaching.git
+ 1699  make 
+ 1700  make concat_identical_sequence_ids
+ 1701  ./concat_identical_sequence_ids -i ../source/data/some_identical_sequences.fasta -o ../source/out_data/concatenated_seqs.fasta
+ 1702  make alignment_file_conversion
+ 1703  ./alignment_file_conversion -i ../source/data/mult_align.sam -o ../source/out_data/mult_align.bam
+ 1704  ./alignment_file_conversion -i ../source/data/mult_align.bam -o ../source/out_data/mult_align.sam
+ 1705  ./alignment_file_conversion -i ../source/data/mult_align.sam -o ../source/out_data/mult_align.bam
+ 1706  ./alignment_file_conversion -i ../source/data/mult_align.bam -o ../source/out_data/mult_align.sam
+ 1707  ./alignment_file_conversion -i /Users/simsalabim/Documents/teaching/data/mult_align.bam -o ../source/out_data/mult_align.sam
+ 1708  cd
+ 1709  cd Documents/teaching
+ 1710  git add .
+ 1711  git commit -"Corrected these two files which were not compiling properly."
+ 1712  git commit -m "Corrected these two files which were not compiling properly."
+ 1713  git push -u origin master
+ 1714  cd
+ 1715  ssh mogsem06@sympathyforthedevil.molgen.mpg.de
+ 1716  ssh simonsasse97@andorra.mi.fu-berlin.de
+ 1717  ssh simos24@andorra.mi.fu-berlin.de
+ 1718  cd Documents/seqan3
+ 1719  git status
+ 1720  git g
+ 1721  git checkout master
+ 1722  git status
+ 1723  git update 
+ 1724  git pull origin master
+ 1725  git checkout fix_typo
+ 1726  git merge master
+ 1727  cd Documents/seqan3
+ 1728  git checkout master
+ 1729  git checkout -b remove_pragmas_IO
+ 1730  git status
+ 1731  gatk
+ 1732  gti diff HEAD
+ 1733  git diff HEAD
+ 1734  git checkout fix_typo
+ 1735  git diff HEAD
+ 1736  git checkout remove_pragmas_IO
+ 1737  cd ..
+ 1738  cd seqan3-build
+ 1739  history | grep ctest
+ 1740  history | grep test
+ 1741  cmake ../seqan3/incl -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1742  cmake ../seqan3/include/seqan3/io -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1743  cmake ../seqan3/include/seqan3/io/structure_file/input.hpp -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1744  cmake --help
+ 1745  cmake ../seqan3/test/unit/io/structure_file/structure_file_input_test.cpp -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1746  cmake ../seqan3/test/unit/io/structure_file/structure_file_input_test -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1747  cmake ../seqan3/test/unit/io/structure_file -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1748  history | grep test
+ 1749  cmake ../seqan3/test/unit/io/structure_file -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1750  cmake ../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1751  cmake ../seqan3/test/unit/io/structure_file -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1752  cmake ../seqan3/test/unit/io -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1753  cmake ../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1754  make ../seqan3/test/unit/io/structure_file
+ 1755  ls
+ 1756  ctest
+ 1757  cmake ../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1758  ctest
+ 1759  make
+ 1760  cmake ../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1761  ls
+ 1762  make io/structure_file
+ 1763  make structure_file
+ 1764  cmake ../seqan3/test -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1765  cmake ../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1766  make io/structure_file
+ 1767  make structure_file_input_test
+ 1768  make structure_file_input_test.cpp
+ 1769  make structure_file_input_test
+ 1770  cd debug
+ 1771  cmake ../../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1772  cd ../../seqan3/include/seqan3/io/structure_file
+ 1773  make
+ 1774  cd -
+ 1775  make
+ 1776  git status
+ 1777  cd -
+ 1778  git status
+ 1779  git checkout -- ../../../../test/unit/io/CMakeLists.txt
+ 1780  git checkout -- ../../../../test/unit/io/structur_file/CMakeLists.txt
+ 1781  git checkout -- ../../../../test/unit/io/structure_file/CMakeLists.txt
+ 1782  git status
+ 1783  cmake ../../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1784  cd -
+ 1785  cmake ../../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1786  cd i
+ 1787  cd io
+ 1788  cd structure_file
+ 1789  make
+ 1790  ctest
+ 1791  cd ..
+ 1792  make
+ 1793  ctest
+ 1794  cd structure_file
+ 1795  make
+ 1796  ctest
+ 1797  cd ../d
+ 1798  cd ../sequence_file
+ 1799  make
+ 1800  ctest
+ 1801  cd ../..
+ 1802  cd range/container
+ 1803  make
+ 1804  ctest
+ 1805  make
+ 1806  ctest
+ 1807  make
+ 1808  ctest
+ 1809  make
+ 1810  ctest
+ 1811  cmake
+ 1812  make+
+ 1813  msker
+ 1814  make
+ 1815  ctest 
+ 1816  cd ../../
+ 1817  cd -
+ 1818  cd
+ 1819  cd Documents/seqan3
+ 1820  git status
+ 1821  git add all
+ 1822  git add --all
+ 1823  git status
+ 1824  git commit --dry-run
+ 1825  git add --all
+ 1826  git status
+ 1827  git commit --dry-run
+ 1828  cd -
+ 1829  cd Documents/seqan3-build/debug
+ 1830  ls
+ 1831  cmake 
+ 1832  make
+ 1833  ctest 
+ 1834  cd -
+ 1835  cd Documents/seqan3
+ 1836  git commit -m "[I/O,MISC] Remove #pragma GCC diagnostics"        
+ 1837  git status
+ 1838  git push origin remove_pragmas_IO
+ 1839  git checkout master
+ 1840  history | grep pull
+ 1841  git pull origin master
+ 1842  git checkout -b 1647
+ 1843  git status
+ 1844  cd ../seqan3-build/debug/
+ 1845  cd -
+ 1846  git status
+ 1847  cd -
+ 1848  git status
+ 1849  cd -
+ 1850  make 
+ 1851  cd Documents/teaching
+ 1852  git add --all
+ 1853  ctest
+ 1854  git status
+ 1855  git commit -m "deleted unnessecary data and added stats.png"
+ 1856  git push origin master
+ 1857  git status
+ 1858  git add -all
+ 1859  git add --all
+ 1860  git commit -m "Remove data, because it is too large."
+ 1861  git push origin master
+ 1862  make && ctest
+ 1863  cd -
+ 1864  git checkout remove_pragmas_IO
+ 1865  git checkout 1647
+ 1866  cd -
+ 1867  ls
+ 1868  cd test
+ 1869  ls
+ 1870  cd ..
+ 1871  ls
+ 1872  cd ..
+ 1873  cd -
+ 1874  mkdir performance
+ 1875  cd performance
+ 1876  history|grep cmake
+ 1877  cmake ../../../seqan3/test/performance -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1878  ls
+ 1879  cd range
+ 1880  make
+ 1881  ctest
+ 1882  cd ../..
+ 1883  ls
+ 1884  mkdir unit
+ 1885  cd unit
+ 1886  cmake ../../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1887  cmake ../../../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1888  cd alignment
+ 1889  make
+ 1890  ctest
+ 1891  cd ../..
+ 1892  mkdir doc
+ 1893  cd doc
+ 1894  cmake ../../../seqan3/test/doc -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1895  cmake ../../../seqan3/test/documentation -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1896  brew install doxygen
+ 1897  cmake ../../../seqan3/test/documentation -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1898  ls
+ 1899  make
+ 1900  ctest
+ 1901  make
+ 1902  ctest
+ 1903  make
+ 1904  ctest
+ 1905  ctest .
+ 1906  cd ..
+ 1907  mkdir snippet
+ 1908  cd snippet
+ 1909  cmake ../../../seqan3/test/snippet -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1910  ls
+ 1911  make -j 4
+ 1912  ctest
+ 1913  cd ../unit
+ 1914  cd io
+ 1915  make
+ 1916  ctest
+ 1917  cd ../range/container
+ 1918  make
+ 1919  ctest
+ 1920  cd 
+ 1921  cd Documents/seqan3
+ 1922  git checkout remove_pragmas_IO
+ 1923  git stash
+ 1924  git checkout remove_pragmas_IO
+ 1925  git stash pop
+ 1926  git status
+ 1927  cd -
+ 1928  git status
+ 1929  history | grep push
+ 1930  git push origin remove_pragmas_IO
+ 1931  git checkout 1647
+ 1932  git checkout remove_pragmas_IO
+ 1933  cd -
+ 1934  cd ../seqan3-build/debug/doc
+ 1935  make
+ 1936  ctest
+ 1937  cd -
+ 1938  git checkout remove_pragmas_IO
+ 1939  cd -
+ 1940  cd ../unit/range/container
+ 1941  make && ctest
+ 1942  cd ..
+ 1943  make && ctest
+ 1944  cd ../doc
+ 1945  vim
+ 1946  cd Documents/seqan3-build/debug/unit/range/container
+ 1947  cd ../..
+ 1948  history | grep cmake
+ 1949  cmake ../../../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-7
+ 1950  cmake ../../../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug 
+ 1951  brew install gcc7
+ 1952  brew install gcc@7
+ 1953  cmake ../../../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-7
+ 1954  cd range/container
+ 1955  make
+ 1956  make && ctest
+ 1957  cd ..
+ 1958  cd 
+ 1959  cd Documents/seqan3-build/debug/unit/
+ 1960  cmake ../../../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-9
+ 1961  make && ctest
+ 1962  cd range/container
+ 1963  make && ctest
+ 1964  cd ..
+ 1965  cd io
+ 1966  make && ctest
+ 1967  cd ../..
+ 1968  cd doc
+ 1969  ls
+ 1970  make && ctest
+ 1971  brew install latex
+ 1972  brew cask install mactex-no-gui
+ 1973  brew install dvips
+ 1974  make && ctest
+ 1975  latex
+ 1976  maclatex
+ 1977  mactex
+ 1978  latex
+ 1979  cd Documents/seqan3-build/debug/doc
+ 1980  make && ctest
+ 1981  getenv
+ 1982  brew install getenv
+ 1983  _ghostscript
+ 1984  latex
+ 1985  brew install libpng freetype pkg-config
+ 1986  python -mpip install 
+ 1987  conda
+ 1988  conda package
+ 1989  conda install matplotlib
+ 1990  cd
+ 1991  conda 
+ 1992  jupyter lab
+ 1993  conda jupyter lab
+ 1994  conda install -c conda-forge jupyterlab
+ 1995  jupyter
+ 1996  jupyter lab
+ 1997  jupiter notebook
+ 1998  jupyter notebook
+ 1999  jupyter lab
+ 2000  conda install ipywidgets
+ 2001  jupyter lab
+ 2002  conda install pillow
+ 2003  cd Documents/seqan3
+ 2004  git status
+ 2005  git push origin 1647
+ 2006  git checkout master
+ 2007  git rebase upstream/master
+ 2008  git checkout 1647
+ 2009  git rebase master
+ 2010  git checkout 1647
+ 2011  git status
+ 2012  git rebase --continue
+ 2013  git status
+ 2014  git push origin 1647
+ 2015  git pull origin
+ 2016  git pull origin/master
+ 2017  git pull master
+ 2018  git pull
+ 2019  git pull origin 1647
+ 2020  git status
+ 2021  git checkout master
+ 2022  git pull origin master
+ 2023  git status
+ 2024  git commit -m "I made a mess within git, trying to clean it up."
+ 2025  git status
+ 2026  git pull origin master
+ 2027  git status
+ 2028  git rebase -i
+ 2029  git status
+ 2030  git pull origin master
+ 2031  git checkout 1647
+ 2032  git status
+ 2033  git pull master
+ 2034  git pull master 1647
+ 2035  git rebase master 1647
+ 2036  git rebase --abort
+ 2037  git status
+ 2038  git history
+ 2039  gitk
+ 2040  git checkout master
+ 2041  gitk
+ 2042  git checkout 1647
+ 2043  git rebase -i
+ 2044  git rebase -i 1647
+ 2045  git rebase -i master
+ 2046  git rebase upstream/master
+ 2047  git rebase --amend
+ 2048  git rebase --abort
+ 2049  git rebas -i 1647
+ 2050  git rebase -i 1647
+ 2051  git rebase -i master
+ 2052  git push origin 1647
+ 2053  git push origin 
+ 2054  g
+ 2055  git checkout master
+ 2056  git pull 
+ 2057  git checkout 1647
+ 2058  git pull
+ 2059  git checkout master
+ 2060  git fetch upstream
+ 2061  git rebase upstream master
+ 2062  git rebase origin master
+ 2063  git checkout 1647
+ 2064  git rebase upstream master
+ 2065  git rebase origin  master
+ 2066  git rebase origin 1647
+ 2067  git rebase master 1647
+ 2068  git add --all
+ 2069  git commit -m"[DOC,MISC] add aligned_sequence_concept.hpp to debug_stream.hpp"
+ 2070  git push
+ 2071  git remote -v
+ 2072  git push origin 1647
+ 2073  git pull
+ 2074  git pull master
+ 2075  git diff
+ 2076  git push origin
+ 2077  git push origin 1647
+ 2078  git fetch origin
+ 2079  git fetch upstream
+ 2080  git rebase upstream 1647
+ 2081  git rebase origin 1647
+ 2082  git checkout master
+ 2083  git rebase upstream master
+ 2084  git rebase origin  master
+ 2085  git checkout 1647
+ 2086  git push origin 1647
+ 2087  git pull
+ 2088  git pull origin 1647
+ 2089  git push origin 1647
+ 2090  git status
+ 2091  git checkout master
+ 2092  git fetch origin
+ 2093  git merge origin/master
+ 2094  git checkout 1647
+ 2095  git merge master
+ 2096  git push origin 1647
+ 2097  git add doc/tutorial/introduction/introduction_align.cpp
+ 2098  git status
+ 2099  gitk
+ 2100  git status
+ 2101  git remote -v
+ 2102  git fetch upstream
+ 2103  git checkout master
+ 2104  git remote -v
+ 2105  git fetch upstream
+ 2106  git checkout 1647
+ 2107  git rebase upstream/master
+ 2108  git status
+ 2109  git add doc/tutorial/introduction/introduction_align.cpp include/seqan3/core/debug_stream.hpp
+ 2110  git rebase --continue
+ 2111  git status
+ 2112  git add doc/tutorial/introduction/introduction_align.cpp include/seqan3/core/debug_stream.hpp
+ 2113  git rebase --continue
+ 2114  git status
+ 2115  git push origin 1647 -f
+ 2116  git reset --hard HEAD~
+ 2117  git push origin 1647 -f
+ 2118  git checkout master
+ 2119  git pull upstream master
+ 2120  git submodule update
+ 2121  git status
+ 2122  git checkout 1647
+ 2123  git status
+ 2124  git checkout remove_pragmas_IO
+ 2125  git status
+ 2126  git checkout --all
+ 2127  git checkout submodules/range-v3
+ 2128  git checkout submodules/sdsl-lite
+ 2129  git status
+ 2130  git merge master
+ 2131  git status
+ 2132  git checkout master
+ 2133  git checkout remove_pragmas_IO
+ 2134  git status
+ 2135  git checkout master
+ 2136  git pull upstream master
+ 2137  git submodule update
+ 2138  git checkout remove_pragmas_IO
+ 2139  cd ../seqan3-build
+ 2140  cd -
+ 2141  cd ../seqan3-build/debug/unit/io
+ 2142  history | grep cmake
+ 2143  cd -
+ 2144  git status
+ 2145  git pull upstream/master
+ 2146  git pull upstream
+ 2147  git fetch upstream
+ 2148  git status
+ 2149  git add --all
+ 2150  git status
+ 2151  git commit --amend
+ 2152  git status
+ 2153  gitk
+ 2154  git commit --amend 
+ 2155  git reset --hard HEAD^
+ 2156  git status
+ 2157  git submodule update
+ 2158  git  status
+ 2159  git commit --amend
+ 2160  git add test/unit/range/container/container_of_container_test.cpp
+ 2161  git commit --amend
+ 2162  git push origin remove_pragmas_IO
+ 2163  git push origin remove_pragmas_IO -f
+ 2164  git status
+ 2165  cd
+ 2166  conda create --name bio_cog_environment
+ 2167  conda activate bio_cog_environment
+ 2168  conda install --name bio_cog_environment pandas
+ 2169  conda list
+ 2170  conda install --name bio_cog_environment scipy
+ 2171  conda install --name bio_cog_environment seaborn
+ 2172  conda install --name bio_cog_environment scikit learn
+ 2173  conda install --name bio_cog_environment scikit-learn
+ 2174  conda list
+ 2175  conda install --name bio_cog_environment pyplot
+ 2176  conda install --name bio_cog_environment jupyter
+ 2177  conda list
+ 2178  conda install --name bio_cog_environment pytorch
+ 2179  conda list
+ 2180  conda list --explicit > Documents/BioCog/conda_environment.txt
+ 2181  mkdir Documents/bio_coq
+ 2182  rmdir Documents/bio_coq
+ 2183  mkdir Documents/bio_cog
+ 2184  conda list --explicit > Documents/bio_cog/conda_environment.txt
+ 2185  cat Documents/bio_cog/conda_environment.txt
+ 2186  ssh sasses@172.16.120.129
+ 2187  ssh sassesi@172.16.120.129
+ 2188  cd Documents/bio_cog
+ 2189  ls
+ 2190  scp conda_environment.txt sassesi@172.16.120.129/data/project/biocog/fu
+ 2191  scp conda_environment.txt sassesi@172.16.120.129/data/project/biocog
+ 2192  scp conda_environment.txt sassesi@172.16.120.129:/data/project/biocog/fu
+ 2193  ssh sassesi@172.16.120.129
+ 2194  conda env export > Documents/bio_cog/conda_environment.yml
+ 2195  conda env export > conda_environment.yml
+ 2196  cat conda_environment.yml
+ 2197  scp conda_environment.yml sassesi@172.16.120.129:/data/project/biocog/fu
+ 2198  scp conda_environment.yml sassesi@172.16.120.129:/data/project/biocog/fu | cut -f 1 -d '='
+ 2199  conda env export | cut -f 1 -d '=' >  conda_environment.yml
+ 2200  cat conda_environment.yml
+ 2201  scp conda_environment.yml sassesi@172.16.120.129:/data/project/biocog/fu 
+ 2202  ssh-keygen
+ 2203  ll ~/.ssh
+ 2204  cd id_rsa
+ 2205  ll ~/.ssh/id_rsa
+ 2206  ls
+ 2207  cd ~/.ssh/
+ 2208  ls
+ 2209  cd id_rsa
+ 2210  ls
+ 2211  cd id_rsa
+ 2212  ll id_rsa
+ 2213  ls id_rsa
+ 2214  mv ../Documents/bio_cog/biocog_key .
+ 2215  mv ../Documents/bio_cog/biocog_key.pub .
+ 2216  ls
+ 2217  ssh-copy-id -i biocog_key sassesi@172.16.120.129
+ 2218  ssh sassesi@172.16.120.129
+ 2219  ssh-add biocog_key
+ 2220  ssh sassesi@172.16.120.129
+ 2221  vim config
+ 2222  .ssh
+ 2223  ls
+ 2224  ssh bih-front
+ 2225  cd 
+ 2226  cd Downloads
+ 2227  ssh -N  -L localhost:23101997:localhost:23101997 23101997@172.16.120.129
+ 2228  ssh -N  -L localhost:2310:localhost:2310 2310@172.16.120.129
+ 2229  ssh -N  -L localhost:9898:localhost:9898 sassesi@172.16.120.129
+ 2230  brew install tmux
+ 2231  tmux
+ 2232  cd
+ 2233  ssh bih-front
+ 2234  ssh -N  -L localhost:9898:localhost:9898 sassesi@172.16.120.129
+ 2235  ssh bih-front
+ 2236  cd .ssh
+ 2237  ls
+ 2238  vim config
+ 2239  ssh bih-gpu
+ 2240  vim config
+ 2241  ssh bih-gpu
+ 2242  ssh bih-front
+ 2243  ssh bih-gpu
+ 2244  vim config
+ 2245  ssh bih-gpu
+ 2246  cat config
+ 2247  htop
+ 2248  brew install htop
+ 2249  htop
+ 2250  ssh bih-gpu
+ 2251  history | grep tmux
+ 2252  ssh bih-gpu
+ 2253  ssh -N -L localhost:9989:localhost:9989 bih-gpu
+ 2254  cd .ssh
+ 2255  vim config
+ 2256  ssh -N -L localhost:9989:localhost:9987 bih-gpu
+ 2257  vim config
+ 2258  ssh -N -L localhost:9989:localhost:9987 bih-gpu-jupyter
+ 2259  ssh -N -L localhost:9987:localhost:9987 bih-gpu-jupyter
+ 2260  ssh bih-gpu-jupyter
+ 2261  vim config
+ 2262  ssh bih-gpu-jupyter
+ 2263  ssh -N -L localhost:9897:localhost:9897 bih-gpu-jupyter
+ 2264  htop
+ 2265  cd Downloads
+ 2266  ls
+ 2267  cd emmy-awards
+ 2268  history | grep scp
+ 2269  
+ 2270  cd Downloads/emmy-awards
+ 2271  scp emmy_awards_categories.csv scp emmy_awards_categories.csv sassesi@172.16.120.129:/home/sassesi/Documents
+ 2272  scp emmy_awards_categories.csv scp the_emmy_awards.csv sassesi@172.16.120.129:/home/sassesi/Documents
+ 2273  ssh bih-gpu
+ 2274  cd 
+ 2275  cd .ssh
+ 2276  cat config
+ 2277  ssh bih-gpu
+ 2278  vim config
+ 2279  python3.8
+ 2280  python3.7
+ 2281  htop
+ 2282  cd .ssh
+ 2283  vim vonfig
+ 2284  ls
+ 2285  vom config
+ 2286  vim config
+ 2287  ssh bih-gpu
+ 2288  cat .ssh/config
+ 2289  vim .ssh/config
+ 2290  cd
+ 2291  ssh bih-gpu
+ 2292  ssh bih-front
+ 2293  ssh bih-gpu
+ 2294  ssh bih-front
+ 2295  ssh -vvv bih-gpu
+ 2296  cat .ssh/config
+ 2297  cat .ssh/biocog_key
+ 2298  vim .ssh/conf
+ 2299  vim .ssh/config
+ 2300  ssh bih-gpu
+ 2301  ssh sassesi@bih-gpu
+ 2302  history |grep ssh-copy
+ 2303  ssh-copy-id -i ~/.ssh/biocog_key.pub sassesi@bih-gpu    
+ 2304  ssh bih-gpu
+ 2305  ssh sassesi@bih-gpu
+ 2306  ssh-copy-id -i ~/.ssh/biocog_key.pub sassesi@bih-front    
+ 2307  ssh bih-front
+ 2308  cat .ssh/config
+ 2309  cat .ssh/known_hosts
+ 2310  ssh bih-gpu
+ 2311  history |grep ssh-add
+ 2312  ssh-add biocog_key
+ 2313  cd  .ssh
+ 2314  ssh-add biocog_key
+ 2315  ssh bih-gpu
+ 2316  ssh bih-gpu-jupyter
+ 2317  cat config
+ 2318  cd
+ 2319  cd Downloads/covid19-tracking-germany
+ 2320  cd ..
+ 2321  scp covid19-tracking-germany sassesi@bih-front:home/sassesi/Documents
+ 2322  scp covid19-tracking-germany/covid_de sassesi@bih-front:home/sassesi/Documents/covid_de
+ 2323  scp covid19-tracking-germany/covid_de.csv sassesi@bih-front:home/sassesi/Documents/covid_de.csv
+ 2324  scp covid19-tracking-germany/covid_de.csv sassesi@bih-front:home/sassesi/Documents
+ 2325  history |grep scp
+ 2326  scp covid19-tracking-germany/covid_de.csv sassesi@bih-front:/home/sassesi/Documents
+ 2327  scp covid19-tracking-germany/demographics_de.csv sassesi@bih-front:/home/sassesi/Documents
+ 2328  cd
+ 2329  cd .ssh
+ 2330  cat config
+ 2331  ssh bih-front
+ 2332  tmux
+ 2333  conda activate biocog_env
+ 2334  ssh -N -L localhost:9897:localhost:9897 sassesi@172.16.120.129\n
+ 2335  ssh -N -L localhost:9891:localhost:9891 sassesi@172.16.120.129\n
+ 2336  conda install seaborn
+ 2337  python3 i
+ 2338  python3 
+ 2339  conda list
+ 2340  conda install -c anaconda seaborn
+ 2341  python3
+ 2342  ssh bih-gpu-jupyter
+ 2343  ssh bih-front
+ 2344  ssh bih-gpu-jupyter
+ 2345  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2346  tmux
+ 2347  ssh -N -L localhost:9897:localhost:9897 sassesi@172.16.120.129\n
+ 2348  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2349  cd
+ 2350  cd Documents/bio_cog
+ 2351  ls
+ 2352  scp sassesi@bih-front:/data/project/biocog/data/Annotation_Dataset_27032020.pdf dataset-annotation.pdf
+ 2353  ls
+ 2354  ssh bih-gpu-jupyter
+ 2355  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2356  ssh bih-gpu-jupyter
+ 2357  ssh bih-front
+ 2358  ssh bih-gpu-jupyter
+ 2359  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2360  ssh bih-front
+ 2361  ssh bih-gpu-jupyter
+ 2362  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2363  ssh bih-gpu-jupyter
+ 2364  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2365  ssh bih-gpu-jupyter
+ 2366  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2367  ssh bih-gpu-jupyter
+ 2368  ssh bih-gpu
+ 2369  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2370  tmux ls
+ 2371  conda activate biocog_env
+ 2372  conda info --envs
+ 2373  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2374  ssh bih-gpu-jupyter
+ 2375  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2376  ssh bih-gpu-jupyter
+ 2377  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2378  cd Documents/seqan3
+ 2379  git status
+ 2380  shell
+ 2381  zsh
+ 2382  cd
+ 2383  cd -
+ 2384  git checkout
+ 2385  cd /
+ 2386  ls
+ 2387  ls -a
+ 2388  cd bin
+ 2389  ls -a
+ 2390  cd zsh
+ 2391  kill 
+ 2392  kill -h
+ 2393  kill -l
+ 2394  killall 
+ 2395  killall-h
+ 2396  killall -h
+ 2397  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2398  ssh bih-front
+ 2399  ssh -N -L localhost:9789:localhost:9789 sassesi@172.16.120.129
+ 2400  ssh bih-gpu-jupyter
+ 2401  ssh -N -L localhost:9789:localhost:9789 sassesi@172.16.120.129
+ 2402  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2403  ssh bih-gpu-jupyter
+ 2404  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2405  ssh -N -L localhost:9789:localhost:9789 sassesi@172.16.120.129
+ 2406  ssh bih-gpu-jupyter
+ 2407  cd Documents/seq
+ 2408  cd Documents
+ 2409  cd seqan3
+ 2410  git status
+ 2411  git checkout master
+ 2412  pull upstream master
+ 2413  git pull upstream master
+ 2414  git submodule update
+ 2415  git status
+ 2416  git pull upstream origin/master
+ 2417  git push origin master
+ 2418  git status
+ 2419  cd
+ 2420  ssh bih-gpu-jupyter
+ 2421  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2422  ssh bih-gpu-jupyter
+ 2423  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2424  htop
+ 2425  kill 643
+ 2426  htop
+ 2427  kill 61294
+ 2428  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2429  htop tunnelblick
+ 2430  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2431  htop
+ 2432  killall tunnelblick
+ 2433  killall tunnelblick*
+ 2434  htop
+ 2435  htop tunnelblick
+ 2436  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2437  htop
+ 2438  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2439  ssh bih-front
+ 2440  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2441  ssh bih-gpu-jupyter
+ 2442  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2443  ssh bih-front
+ 2444  ssh bih-gpu-jupyter
+ 2445  ssh bih-front
+ 2446  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2447  ssh bih-gpu-jupyter
+ 2448  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2449  ssh bih-gpu
+ 2450  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2451  history | grep scp
+ 2452  scp Documents/bio_cog/utils.py sassesi@bih-front:/data/projects/biocoq/
+ 2453  scp Documents/bio_cog/utils.py sassesi@bih-front:/data/projects/biocoq/utils.py
+ 2454  ssh bih-front
+ 2455  scp Documents/bio_cog/utils.py sassesi@bih-front:/data/project/biocoq/utils.py
+ 2456  scp Documents/bio_cog/utils.py sassesi@bih-front:/data/project/biocoq/
+ 2457  scp Documents/bio_cog/utils.py sassesi@bih-front:/data/project/biocoq
+ 2458  scp Documents/bio_cog/utils.py sassesi@bih-front:/data/project/biocoq/sassesi/code
+ 2459  scp Documents/bio_cog/utils.py sassesi@bih-front:/data/project/biocoq/sassesi
+ 2460  scp Documents/bio_cog/utils.py sassesi@bih-front:/data/project/biocoq/sassesi/
+ 2461  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2462  ssh bih-front
+ 2463  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2464  ssh bih-front
+ 2465  htop
+ 2466  clear
+ 2467  ssh login@imp.fu-berlin.de
+ 2468  ssh login@mi.fu-berlin.de
+ 2469  ssh login.imp.fu-berlin.de
+ 2470  ssh simonsasse97@login.imp.fu-berlin.de
+ 2471  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2472  ssh bih-gpu
+ 2473  cd Downloads
+ 2474  history | grep scp
+ 2475  scp mart_export-2.txt sassesi@bih-front:/data/project/biocoq/sassesi/data/
+ 2476  scp mart_export-2.txt sassesi@bih-front:/data/project/biocoq/sassesi/data
+ 2477  scp mart_export-2.txt sassesi@bih-front:/data/project/biocoq/sassesi/data/biomart.csv
+ 2478  scp mart_export-2.txt sassesi@bih-front:/data/project/biocoq/sassesi/data/
+ 2479  scp mart_export-2.txt sassesi@bih-front:/data/project/biocoq/sassesi/data
+ 2480  scp mart_export-2.txt sassesi@bih-front:/data/project/biocog/sassesi/data\biomart.csv
+ 2481  scp mart_export-2.txt sassesi@bih-front:/data/project/biocog/sassesi/data/
+ 2482  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2483  cd ../Documents/seqan3
+ 2484  git pull upstream master
+ 2485  git submodule update
+ 2486  git status
+ 2487  git checkout renaming_in_ranges
+ 2488  git checkout -b renaming_in_ranges
+ 2489  cd ../seqan3-build/debug/unit
+ 2490  la
+ 2491  ls
+ 2492  cmake ../../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-7
+ 2493  cd ..
+ 2494  cmake ../../seqan3/test/unit -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-7
+ 2495  make -j 8
+ 2496  htop
+ 2497  ctest
+ 2498  make -j 8
+ 2499  ctest
+ 2500  cd ../../seqan3
+ 2501  git status
+ 2502  cd -
+ 2503  make -j 8
+ 2504  cd -
+ 2505  make -j 8
+ 2506  make -j 4
+ 2507  ctest
+ 2508  make -j 8
+ 2509  ctest
+ 2510  make -j 8
+ 2511  ctest
+ 2512  make -j 8
+ 2513  ctest
+ 2514  cd -
+ 2515  history |grep push
+ 2516  git push origin
+ 2517  git status
+ 2518  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2519  cd -
+ 2520  cd ../..
+ 2521  cd SEM6
+ 2522  python3 drawLine.py
+ 2523  python3
+ 2524  kill 55726
+ 2525  kill-all 55726
+ 2526  kill --all 55726
+ 2527  kill --l 55726
+ 2528  kill -l 55726
+ 2529  cd Documents/SEM6
+ 2530  python3 drawLine.py
+ 2531  cd Documents
+ 2532  cd SEM6
+ 2533  python3 ueb-04-freise-sasse-code.py
+ 2534  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2535  cd Downloads
+ 2536  less mart_export.txt
+ 2537  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2538  cd Documents/seqan3
+ 2539  git status
+ 2540  git log
+ 2541  git remote update
+ 2542  git remote -v
+ 2543  git rebase upstream/master
+ 2544  git diff
+ 2545  git status
+ 2546  git add include/seqan3/core/type_traits/range.hpp test/unit/core/type_traits/range_iterator_test.cpp
+ 2547  git status
+ 2548  git rebase --continue
+ 2549  git diff
+ 2550  git status
+ 2551  git rebase --continue
+ 2552  git add include/seqan3/core/type_traits/range.hpp test/unit/core/type_traits/range_iterator_test.cpp
+ 2553  git status
+ 2554  git rebase --continue
+ 2555  git diff
+ 2556  git status
+ 2557  git add test/unit/core/type_traits/range_iterator_test.cpp
+ 2558  git status
+ 2559  git rebase --continue
+ 2560  git diff
+ 2561  git status
+ 2562  git add test/unit/core/type_traits/range_iterator_test.cpp
+ 2563  git status
+ 2564  git rebase --continue
+ 2565  git diff
+ 2566  git status
+ 2567  git add test/unit/core/type_traits/range_iterator_test.cpp
+ 2568  git status
+ 2569  git rebase --continue
+ 2570  git dif
+ 2571  git diff
+ 2572  git status
+ 2573  git add test/unit/core/type_traits/range_iterator_test.cpp
+ 2574  git status
+ 2575  git rebase --continue
+ 2576  git log
+ 2577  git reset HEAD~3
+ 2578  git log
+ 2579  git diff
+ 2580  git add -p
+ 2581  git status
+ 2582  git commit -m "rebase on dimension_v renaming"
+ 2583  git add test/unit/core/type_traits/range_iterator_test.cpp
+ 2584  git commit -m "rebase on range_compatible renaming"
+ 2585  git log
+ 2586  git rebase -i HEAD~6
+ 2587  git log
+ 2588  git show 65c1d8a4ae26d94ac13a96ed710bcaf097e71fc4
+ 2589  git status
+ 2590  git push -f origin renaming_in_ranges
+ 2591  cd
+ 2592  cd Documents/SEM6
+ 2593  python3 ueb-05-freise-sasse-code.py
+ 2594  cd ..
+ 2595  cd teaching
+ 2596  git pull
+ 2597  git statis
+ 2598  git status
+ 2599  git diff
+ 2600  git log
+ 2601  cd ../seqan3
+ 2602  git checkout master
+ 2603  git remote update
+ 2604  git status
+ 2605  git checkout -b move_remove_cvref
+ 2606  cd
+ 2607  cd Documents/SEM6
+ 2608  python3 ueb-06-freise-sasse-31.py
+ 2609  ssh -N -L localhost:9889:localhost:9889 sassesi@172.16.120.129\n
+ 2610  ssh bih-front
+ 2611  ssh bih-gpu
+ 2612  ssh bih-gpu-jupyter
+ 2613  cd Documents/seqan3
+ 2614  git remote update
+ 2615  git status
+ 2616  git checkout master
+ 2617  git checkout ranges_view_to_views
+ 2618  cd ../seqan3-build/debug
+ 2619  make
+ 2620  ctest
+ 2621  history | grep make
+ 2622  make -j 8
+ 2623  history | grep ctest
+ 2624  ctest
+ 2625  cd -
+ 2626  git diff
+ 2627  git add --all
+ 2628  git status
+ 2629  git commit -m "[MISC] Renames seqan3::ranges::view to seqan3::ranges::views"
+ 2630  git push origin ranges_view_to_views
+ 2631  git commit --amend -m "[MISC] Renames ranges::view to ranges::views"
+ 2632  git diff
+ 2633  git push --force-with-lease origin ranges_view_to_views
+ 2634  git log
+ 2635  git remote update 
+ 2636  git remote -v
+ 2637  git rebase upstream/master
+ 2638  git diff
+ 2639  git status
+ 2640  git log
+ 2641  git reset HEAD~1
+ 2642  git status
+ 2643  git add --all
+ 2644  git status
+ 2645  git diff
+ 2646  git log
+ 2647  git commit -m "[MISC] Renames ranges::view to ranges::views"
+ 2648  git push -f origin ranges_view_to_views
+ 2649  git log
+ 2650  git status
+ 2651  cd -
+ 2652  make -j 8
+ 2653  ctest
+ 2654  clear
+ 2655  cd -
+ 2656  git log
+ 2657  git remote update
+ 2658  git reset HEAD~1
+ 2659  git add --all
+ 2660  git diff
+ 2661  git commit -m "[MISC] Renames ranges::view to ranges::views"
+ 2662  git push -f origin ranges_view_to_views
+ 2663  git reset HEAD~1
+ 2664  git add --all
+ 2665  git commit -m "[MISC] Renames ranges::view to ranges::views"
+ 2666  git push -f origin ranges_view_to_views
+ 2667  git reset HEAD~1
+ 2668  git add --all
+ 2669  git commit -m "[MISC] Renames ranges::view to ranges::views"
+ 2670  git push -f origin ranges_view_to_views
+ 2671  git checkout master
+ 2672  git remote update
+ 2673  git checkout -b seperate_iterator_def_from_view
+ 2674  git status
+ 2675  cd -
+ 2676  make -j 8
+ 2677  clear
+ 2678  make -j 8
+ 2679  ctest
+ 2680  make -j 8
+ 2681  cd -
+ 2682  git remote update
+ 2683  git checkout master
+ 2684  git remote update
+ 2685  git remote -v
+ 2686  git checkout seperate_iterator_def_from_view
+ 2687  git rebase upstream master
+ 2688  git checkout -b test
+ 2689  git checkout seperate_iterator_def_from_view
+ 2690  git remote update
+ 2691  git checkout master
+ 2692  git remote update
+ 2693  git branch -d seperate_iterator_def_from_view
+ 2694  git checkout master
+ 2695  git branch -d test
+ 2696  git branch -l
+ 2697  git branch -d new_branch
+ 2698  git branch -D new_branch
+ 2699  git remote update -v
+ 2700  git remote update
+ 2701  clear
+ 2702  git fetch
+ 2703  git status
+ 2704  git diff
+ 2705  git fetch upstream
+ 2706  git pull upstream
+ 2707  git pull upstream master
+ 2708  git status
+ 2709  git checkout -b seperate_iterator_from_view
+ 2710  cd -
+ 2711  make -j 8 
+ 2712  ctest
+ 2713  make -j 8 
+ 2714  ctest
+ 2715  make -j 8 && ctest
+ 2716  cd -
+ 2717  git status
+ 2718  git add --all
+ 2719  git status
+ 2720  git commit -m "[MISC] Define iterators from a view outside a view."
+ 2721  git push origin seperate_iterator_from_view
+ 2722  cd -
+ 2723  cd ../documentation
+ 2724  make -j 8
+ 2725  cmake ../../seqan3/test/documentation -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-7
+ 2726  ctest
+ 2727  cd ../../seqan3
+ 2728  cd -
+ 2729  git checkout master
+ 2730  git remote update
+ 2731  git pull upstream master
+ 2732  git checkout -b cookbook_python_vs_cpp
+ 2733  gcc
+ 2734  gcc --version
+ 2735  cd Documents/s
+ 2736  cd Documents/
+ 2737  cd seqan3-build
+ 2738  cd application
+ 2739  cmake ../../source -DCMAKE_CXX_COMPILER=/path/to/executable/g++-7
+ 2740  cmake ../../seqan3-source -DCMAKE_CXX_COMPILER=/path/to/executablez/g++-7
+ 2741  cmake ../../seqan3-source -DCMAKE_CXX_COMPILER=/path/to/executable/g++-7
+ 2742  cmake ../../seqan3-source -DCMAKE_CXX_COMPILER=/path/to/executables/g++-7
+ 2743  cmake ../../seqan3-source -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=g++-7
+ 2744  ls
+ 2745  make
+ 2746  ./translate_nucleotides_to_protein
+ 2747  ./translate_nucleotides_to_protein -h
+ 2748  ./translate_nucleotides_to_protein /Users/simsalabim/Google Drive/SHK-Stelle/tutorial/source/data (1)/large_sequence_translation.fasta /Users/simsalabim/Desktop/translation_test.fasta
+ 2749  ./translate_nucleotides_to_protein /Users/simsalabim/Google Drive/SHK-Stelle/tutorial/source/data\ (1)/large_sequence_translation.fasta /Users/simsalabim/Desktop/translation_test.fasta
+ 2750  ./translate_nucleotides_to_protein /Users/simsalabim/Google\ Drive/SHK-Stelle/tutorial/source/data/large_sequence_translation.fasta /Users/simsalabim/Desktop/translation_test.fasta
+ 2751  ./translate_nucleotides_to_protein -i /Users/simsalabim/Google\ Drive/SHK-Stelle/tutorial/source/data/large_sequence_translation.fasta -o /Users/simsalabim/Desktop/translation_test.fasta
+ 2752  ./translate_nucleotides_to_protein -i /Users/simsalabim/Google\ Drive/SHK-Stelle/tutorial/source/data/seq_with_ident_sequences.fasta -o /Users/simsalabim/Desktop/translation_test.fasta
+ 2753  htop
+ 2754  cd /Users/simsalabim/Desktop
+ 2755  cd -
+ 2756  less translation_test.fasta
+ 2757  cd -
+ 2758  cmake ../../seqan3-source -DCMAKE_BUILD_TYPE=Release -DCMAKE_CXX_COMPILER=g++-7
+ 2759  make -j 9
+ 2760  make -j 8
+ 2761  ./translate_nucleotides_to_protein -i /Users/simsalabim/Google\ Drive/SHK-Stelle/tutorial/source/data/seq_with_ident_sequences.fasta -o /Users/simsalabim/Desktop/translation_test.fasta
+ 2762  cd -
+ 2763  cd 
+ 2764  cd Documents/seqan3
+ 2765  git checkout seperate_iterator_from_view
+ 2766  git status
+ 2767  git log
+ 2768  git reset HEAD~1
+ 2769  git remote update
+ 2770  git pull upstream master
+ 2771  git fetch upstream
+ 2772  git pull upstream master
+ 2773  git status
+ 2774  git add -a
+ 2775  git add --all
+ 2776  git status
+ 2777  git commit -m "[MISC] Define iterators from a view outside a view."
+ 2778  git push origin seperate_iterator_from_view 
+ 2779  git push -f origin seperate_iterator_from_view 
+ 2780  git reset HEAD~1
+ 2781  cd ../seqan3-build/debug
+ 2782  make -j 8
+ 2783  ctest
+ 2784  cd -
+ 2785  git status
+ 2786  git add --all
+ 2787  git commit -m "[MISC] Define iterators from a view outside a view."
+ 2788  git push -f origin seperate_iterator_from_view 
+ 2789  git reset HEAD~1
+ 2790  git fetch upstream
+ 2791  git pull upstream master
+ 2792  git add --all
+ 2793  git commit -m "[MISC] Define iterators from a view outside a view."
+ 2794  git push -f origin seperate_iterator_from_view 
+ 2795  cd -
+ 2796  cd ~/Documents/seqan3-build/debug/
+ 2797  make -j 8 && ctest
+ 2798  cd ~/Downloads
+ 2799  python3 3D\ Graphics\ in\ Tkinter\ v1.00.py
+ 2800  cd 
+ 2801  cd Documents/SEM6/
+ 2802  python3 ueb-06-freise-sasse-31.py
+ 2803  conda install PIL
+ 2804  conda install pillow
+ 2805  cd ~/Documents/seqan3-build/debug
+ 2806  make -j 8
+ 2807  cd ../../seqan3
+ 2808  git reset HEAD~1
+ 2809  cd -
+ 2810  make -j 8
+ 2811  ctest
+ 2812  cd -
+ 2813  git fetch upstream
+ 2814  git pull upstream master
+ 2815  git remote update
+ 2816  git rebase upstream/master
+ 2817  git stash
+ 2818  git pull upstream master
+ 2819  git stash pop
+ 2820  git status
+ 2821  git rebase upstream/master
+ 2822  git add --all
+ 2823  git commit -m "[MISC] Define iterators from a view outside a view."
+ 2824  git rebase upstream/master
+ 2825  cd -
+ 2826  make -j 8 && ctest
+ 2827  git reset HEAD~1
+ 2828  cd -
+ 2829  git reset HEAD~1
+ 2830  cd -
+ 2831  make -j 8 && ctest
+ 2832  cd -
+ 2833  git status
+ 2834  git stash 
+ 2835  git pull upstream master
+ 2836  git stash pop
+ 2837  git log
+ 2838  git add --all
+ 2839  git commit -m "[MISC] Define iterators from a view outside a view."
+ 2840  git push -f origin seperate_iterator_from_view 
+ 2841  git rebase upstream/master
+ 2842  git reset HEAD~1
+ 2843  cd -
+ 2844  make -j 8 && ctest
+ 2845  cd -
+ 2846  git status
+ 2847  git add --all
+ 2848  git commit -m "[MISC] Define iterators from a view outside a view."
+ 2849  git push -f origin seperate_iterator_from_view 
+ 2850  git remote update
+ 2851  git rebase upstream/master
+ 2852  git diff
+ 2853  git status
+ 2854  git diff
+ 2855  git add include/seqan3/range/views/take.hpp
+ 2856  git status
+ 2857  git rebase --continue
+ 2858  git diff
+ 2859  git status\n: 1592984037:0;git status
+ 2860  git log
+ 2861  git push -f origin seperate_iterator_from_view 
+ 2862  git reset HEAD~1
+ 2863  cd -
+ 2864  cd ../seqan3-build
+ 2865  cd -
+ 2866  cd ../seqan3-build/debug
+ 2867  make -j 8 && ctest
+ 2868  cd -
+ 2869  git status
+ 2870  git add --all
+ 2871  git commit -m "[MISC] Define iterators from a view outside a view."
+ 2872  git push -f origin seperate_iterator_from_view 
+ 2873  cd 
+ 2874  conda install pyopengl
+ 2875  conda install pygame
+ 2876  conda install -c cogsci pygame
+ 2877  cd Documents/SEM6
+ 2878  python3 GlLearn.py
+ 2879  conda install openglcontext
+ 2880  python3 GlLearn.py
+ 2881  conda install OpenGLContext
+ 2882  pip install OpenGLContext
+ 2883  pip install "PyVRML97==2.3.0a4"
+ 2884  pip install "OpenGLContext==2.2.0a3"
+ 2885  pip install PyOpenGL PyOpenGL_accelerate "PyVRML97==2.3.0a4" simpleparse numpy "OpenGLContext==2.2.0a3" pydispatcher pillow\n
+ 2886  brew upgrade
+ 2887  brew install GLEW
+ 2888  brew install GLFW
+ 2889  default write com.apple.finder AppleShowAllFiles YES
+ 2890  cd
+ 2891  ssh bih-gpu-jupyter
+ 2892  cd Documents/SEM6
+ 2893  ls
+ 2894  python3 ueb-04-freise-sasse-code.py
+ 2895  python3 ueb-05-freise-sasse-code.py
+ 2896  python3 ueb-06-freise-sasse-code.py
+ 2897  python3 ueb-06-freise-sasse-31.py
+ 2898  cd ~/Desktop
+ 2899  python3 ueb-04-freise-sasse-code.py
+ 2900  python3 ueb-06-freise-sasse-31.py
+ 2901  cat ueb-04-freise-sasse-code.py
+ 2902  cat ueb-06-freise-sasse-31.py
+ 2903  cd 
+ 2904  cd Documents/seqan3
+ 2905  git checkout master
+ 2906  git pull upstream master
+ 2907  git remote update
+ 2908  git status
+ 2909  git log
+ 2910  clear
+ 2911  GIT STATUS
+ 2912  git status
+ 2913  git remote updae
+ 2914  git remote update
+ 2915  git fetch upstream
+ 2916  git pull upstream master
+ 2917  git status
+ 2918  git log
+ 2919  git checkout master
+ 2920  git status
+ 2921  git checkout -b rename_iterators_144
+ 2922  git status
+ 2923  git log
+ 2924  git status
+ 2925  git pull upstream master
+ 2926  git pull upstream rename_iterators_144
+ 2927  git pull upstream master
+ 2928  git pull origin master
+ 2929  git status
+ 2930  git pull upstream master
+ 2931  git status
+ 2932  git log
+ 2933  git diff
+ 2934  git checkout master
+ 2935  git submodule update
+ 2936  git status
+ 2937  git checkout rename_iterators_144
+ 2938  git status
+ 2939  git submodule update
+ 2940  cd
+ 2941  python -m pip install 'python-language-server[all]'
+ 2942  clear
+ 2943  cd Desktop
+ 2944  python3 ueb-04-freise-sasse-code.py
+ 2945  clear
+ 2946  python3 ueb-06-freise-sasse-31.py
+ 2947  python3 ueb-04-freise-sasse-code.py
+ 2948  ssh bih-gpu-jupyter
+ 2949  cd Documents/teaching
+ 2950  GIT -L BRANCH
+ 2951  git checkout -b test_branch
+ 2952  ls
+ 2953  git status
+ 2954  git add --all
+ 2955  git status
+ 2956  git diff
+ 2957  git commit -m "can i create a PR from this commit ?\n\n...we will see."
+ 2958  git push origin 
+ 2959  git push origin test_branch
+ 2960  git status
+ 2961  gti checkout master
+ 2962  git checkout master
+ 2963  git status
+ 2964  git log
+ 2965  git push origin master
+ 2966  ls
+ 2967  git statu
+ 2968  sgit status
+ 2969  git status
+ 2970  git log
+ 2971  git reset HEAD~2
+ 2972  git status
+ 2973  git add make_graphic.R
+ 2974  git add stats.png
+ 2975  git status
+ 2976  git rm --all
+ 2977  git status
+ 2978  git rm data/
+ 2979  git rm data/ -r
+ 2980  git status
+ 2981  git add --a
+ 2982  git statis
+ 2983  git status
+ 2984  git commit -m "can i create a PR from this commit ?\n\n...we will see."
+ 2985  git commit --ammend
+ 2986  git commit --amend
+ 2987  git status
+ 2988  git reset HEAD~1
+ 2989  git status
+ 2990  git checkout test_branch
+ 2991  git add --all
+ 2992  git status
+ 2993  git commit -m "can i create a PR from this commit ?\n\n...we will see."
+ 2994  git push origin test_branch
+ 2995  git status
+ 2996  git reset HEAD~1
+ 2997  git status
+ 2998  git add make_graphic.R
+ 2999  git commit -m "can i create a PR from this commit ?\n\n...we will see."
+ 3000  git push origin test_branch
+ 3001  git pull origin
+ 3002  reset --hard origin/master
+ 3003  git reset --hard origin/master
+ 3004  git status
+ 3005  git checkout test_branch
+ 3006  git fetch origin
+ 3007  git fetch origin/master
+ 3008  git reset --hard origin/master
+ 3009  git status
+ 3010  git add stats.png
+ 3011  git checkout test_branch
+ 3012  git status
+ 3013  git checkout master
+ 3014  git status
+ 3015  git checkout test_branch
+ 3016  ls
+ 3017  touch test_commit.txt
+ 3018  git add test_commit.txt
+ 3019  git commit -m "can i create a PR from this commit ?\n\n...we will see."
+ 3020  git push origin test_branch
+ 3021  cd Documents
+ 3022  rm -r teaching
+ 3023  git clone git@github.com:simonsasse/teaching.git
+ 3024  ls
+ 3025  cd teaching
+ 3026  ls
+ 3027  rm ident_seq.py
+ 3028  ls
+ 3029  cd ..
+ 3030  rm -r teaching
+ 3031  ls
+ 3032  rm -r teaching
+ 3033  y
+ 3034  ls
+ 3035  git clone git@github.com:simonsasse/teaching.git
+ 3036  cd teaching
+ 3037  git checkout origin/master
+ 3038  git checkout master
+ 3039  git checkout -b test_branch
+ 3040  git touch test_commit.txt
+ 3041  ls
+ 3042  git status
+ 3043  touch test_commit.txt
+ 3044  git add test_commit.txt
+ 3045  git commit -m "test commit...\n\nthis is the subtitle."
+ 3046  git push origin test_branch
